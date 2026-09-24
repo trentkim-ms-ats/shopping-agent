@@ -1,0 +1,3491 @@
+[
+  {
+    "product_id": "J01",
+    "category": "jacket",
+    "name": "Trail Drizzle Shell",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. Adjustable hood."
+  },
+  {
+    "product_id": "J02",
+    "category": "jacket",
+    "name": "Ridge Mist Jacket",
+    "colors": [
+      "Stone",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Two zip pockets and adjustable cuffs."
+  },
+  {
+    "product_id": "J03",
+    "category": "jacket",
+    "name": "Pocket Path Shell",
+    "colors": [
+      "Slate",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn hikes. Helps shed light drizzle. Folds into a small carry pouch. Simple outdoor style."
+  },
+  {
+    "product_id": "J04",
+    "category": "jacket",
+    "name": "Meadow Rain Layer",
+    "colors": [
+      "Moss",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Jacket for autumn walks and day hikes. Helps shed light drizzle. Roomy external pockets."
+  },
+  {
+    "product_id": "J05",
+    "category": "jacket",
+    "name": "Summit Warm Jacket",
+    "colors": [
+      "Black",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and adjustable hood. Everyday outdoor style."
+  },
+  {
+    "product_id": "J06",
+    "category": "jacket",
+    "name": "Breeze Pack Jacket",
+    "colors": [
+      "Stone",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "description": "Lightweight jacket for day hikes. Packs into its own pocket. Hood and zip front."
+  },
+  {
+    "product_id": "J07",
+    "category": "jacket",
+    "name": "Cloudline Shell",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable hood and two pockets."
+  },
+  {
+    "product_id": "J08",
+    "category": "jacket",
+    "name": "Small Trail Shell",
+    "colors": [
+      "Stone"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Lightweight jacket for autumn hiking. Helps shed light drizzle. Pocket pack design."
+  },
+  {
+    "product_id": "J09",
+    "category": "jacket",
+    "name": "High Pass Shell",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn hiking. Helps shed light drizzle. Packs into a carry pouch."
+  },
+  {
+    "product_id": "J10",
+    "category": "jacket",
+    "name": "Plain Hood Shell",
+    "colors": [
+      "Black",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell with hood."
+  },
+  {
+    "product_id": "J11",
+    "category": "jacket",
+    "name": "City Evening Jacket",
+    "colors": [
+      "Black",
+      "Red"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Everyday jacket for city evenings. Minimal style with a button front and decorative pockets."
+  },
+  {
+    "product_id": "J12",
+    "category": "jacket",
+    "name": "Crosscolor Trail Jacket",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Jacket for autumn hiking. Helps shed light drizzle. Adjustable hood."
+  },
+  {
+    "product_id": "M01",
+    "category": "midlayer",
+    "name": "Alex's Trail Fleece",
+    "colors": [
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and simple outdoor style."
+  },
+  {
+    "product_id": "M02",
+    "category": "midlayer",
+    "name": "Pine Zip Midlayer",
+    "colors": [
+      "Stone",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for fall day hikes. Zip front and two hand pockets. Outdoor style."
+  },
+  {
+    "product_id": "M03",
+    "category": "midlayer",
+    "name": "Light Step Pullover",
+    "colors": [
+      "Sand",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight midlayer for hiking. Crew neck and simple outdoor style."
+  },
+  {
+    "product_id": "M04",
+    "category": "midlayer",
+    "name": "Ember Trail Layer",
+    "colors": [
+      "Red",
+      "Moss"
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "description": "Warm midlayer for autumn walks. Half zip and outdoor style."
+  },
+  {
+    "product_id": "P01",
+    "category": "pants",
+    "name": "Waypoint Trail Pants",
+    "colors": [
+      "Slate",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. Simple outdoor style."
+  },
+  {
+    "product_id": "P02",
+    "category": "pants",
+    "name": "Roam Light Pants",
+    "colors": [
+      "Sand",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Lightweight pants for day hikes. Drawcord waist and outdoor style."
+  },
+  {
+    "product_id": "P03",
+    "category": "pants",
+    "name": "Camp Warm Pants",
+    "colors": [
+      "Black",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm pants for autumn campsite evenings. Soft lining and two pockets."
+  },
+  {
+    "product_id": "P04",
+    "category": "pants",
+    "name": "Mesa Walking Pants",
+    "colors": [
+      "Red",
+      "Stone"
+    ],
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "description": "Pants for walking and hiking. Straight leg design and simple outdoor style."
+  },
+  {
+    "product_id": "A01",
+    "category": "accessory",
+    "name": "Trail Pocket Cap",
+    "colors": [
+      "Stone",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Cap for day hikes. Adjustable back strap and simple outdoor style."
+  },
+  {
+    "product_id": "A02",
+    "category": "accessory",
+    "name": "Autumn Loop Scarf",
+    "colors": [
+      "Sand",
+      "Black"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends."
+  },
+  {
+    "product_id": "A03",
+    "category": "accessory",
+    "name": "Path Mini Pouch",
+    "colors": [
+      "Moss",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for hiking essentials. Zip closure and an adjustable strap."
+  },
+  {
+    "product_id": "A04",
+    "category": "accessory",
+    "name": "Canyon Trail Cap",
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight cap for hiking. Adjustable back strap and outdoor style."
+  },
+  {
+    "product_id": "J13",
+    "category": "jacket",
+    "name": "Juniper Drizzle Anorak",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J14",
+    "category": "jacket",
+    "name": "Juniper Ridge Shell",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. An internal hanging loop. Designed for woodland paths. Simple minimal style."
+  },
+  {
+    "product_id": "J15",
+    "category": "jacket",
+    "name": "Juniper Camp Parka",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. An internal hanging loop. Designed for woodland paths. Simple urban style."
+  },
+  {
+    "product_id": "J16",
+    "category": "jacket",
+    "name": "Juniper Sunrise Windlayer",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J17",
+    "category": "jacket",
+    "name": "Juniper Spring Trail Jacket",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. An internal hanging loop. Designed for woodland paths. Simple minimal style."
+  },
+  {
+    "product_id": "J18",
+    "category": "jacket",
+    "name": "Juniper Commuter Overshirt",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. An internal hanging loop. Designed for woodland paths. Simple urban style."
+  },
+  {
+    "product_id": "J19",
+    "category": "jacket",
+    "name": "Juniper Winter Hood Jacket",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J20",
+    "category": "jacket",
+    "name": "Juniper Travel Pack Shell",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. An internal hanging loop. Designed for woodland paths. Simple minimal style."
+  },
+  {
+    "product_id": "J21",
+    "category": "jacket",
+    "name": "Juniper Cycle Layer",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. An internal hanging loop. Designed for woodland paths. Simple urban style."
+  },
+  {
+    "product_id": "J22",
+    "category": "jacket",
+    "name": "Juniper Summit Soft Jacket",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J23",
+    "category": "jacket",
+    "name": "Juniper Rain Cape",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. An internal hanging loop. Designed for woodland paths. Simple minimal style."
+  },
+  {
+    "product_id": "J24",
+    "category": "jacket",
+    "name": "Juniper Town Field Jacket",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. An internal hanging loop. Designed for woodland paths. Simple urban style."
+  },
+  {
+    "product_id": "J25",
+    "category": "jacket",
+    "name": "Granite Drizzle Anorak",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "J26",
+    "category": "jacket",
+    "name": "Granite Ridge Shell",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. A contrast pull tab. Designed for rocky trail approaches. Simple urban style."
+  },
+  {
+    "product_id": "J27",
+    "category": "jacket",
+    "name": "Granite Camp Parka",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. A contrast pull tab. Designed for rocky trail approaches. Simple outdoor style."
+  },
+  {
+    "product_id": "J28",
+    "category": "jacket",
+    "name": "Granite Sunrise Windlayer",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "J29",
+    "category": "jacket",
+    "name": "Granite Spring Trail Jacket",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. A contrast pull tab. Designed for rocky trail approaches. Simple urban style."
+  },
+  {
+    "product_id": "J30",
+    "category": "jacket",
+    "name": "Granite Commuter Overshirt",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. A contrast pull tab. Designed for rocky trail approaches. Simple outdoor style."
+  },
+  {
+    "product_id": "J31",
+    "category": "jacket",
+    "name": "Granite Winter Hood Jacket",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "J32",
+    "category": "jacket",
+    "name": "Granite Travel Pack Shell",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. A contrast pull tab. Designed for rocky trail approaches. Simple urban style."
+  },
+  {
+    "product_id": "J33",
+    "category": "jacket",
+    "name": "Granite Cycle Layer",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. A contrast pull tab. Designed for rocky trail approaches. Simple outdoor style."
+  },
+  {
+    "product_id": "J34",
+    "category": "jacket",
+    "name": "Granite Summit Soft Jacket",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "J35",
+    "category": "jacket",
+    "name": "Granite Rain Cape",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. A contrast pull tab. Designed for rocky trail approaches. Simple urban style."
+  },
+  {
+    "product_id": "J36",
+    "category": "jacket",
+    "name": "Granite Town Field Jacket",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. A contrast pull tab. Designed for rocky trail approaches. Simple outdoor style."
+  },
+  {
+    "product_id": "J37",
+    "category": "jacket",
+    "name": "Harbor Drizzle Anorak",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "J38",
+    "category": "jacket",
+    "name": "Harbor Ridge Shell",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. A plain stitched label. Designed for coastal paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J39",
+    "category": "jacket",
+    "name": "Harbor Camp Parka",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. A plain stitched label. Designed for coastal paths. Simple minimal style."
+  },
+  {
+    "product_id": "J40",
+    "category": "jacket",
+    "name": "Harbor Sunrise Windlayer",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "J41",
+    "category": "jacket",
+    "name": "Harbor Spring Trail Jacket",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. A plain stitched label. Designed for coastal paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J42",
+    "category": "jacket",
+    "name": "Harbor Commuter Overshirt",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. A plain stitched label. Designed for coastal paths. Simple minimal style."
+  },
+  {
+    "product_id": "J43",
+    "category": "jacket",
+    "name": "Harbor Winter Hood Jacket",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "J44",
+    "category": "jacket",
+    "name": "Harbor Travel Pack Shell",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. A plain stitched label. Designed for coastal paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J45",
+    "category": "jacket",
+    "name": "Harbor Cycle Layer",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. A plain stitched label. Designed for coastal paths. Simple minimal style."
+  },
+  {
+    "product_id": "J46",
+    "category": "jacket",
+    "name": "Harbor Summit Soft Jacket",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "J47",
+    "category": "jacket",
+    "name": "Harbor Rain Cape",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. A plain stitched label. Designed for coastal paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J48",
+    "category": "jacket",
+    "name": "Harbor Town Field Jacket",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. A plain stitched label. Designed for coastal paths. Simple minimal style."
+  },
+  {
+    "product_id": "J49",
+    "category": "jacket",
+    "name": "Aspen Drizzle Anorak",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "J50",
+    "category": "jacket",
+    "name": "Aspen Ridge Shell",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. A small exterior patch pocket. Designed for forest clearings. Simple minimal style."
+  },
+  {
+    "product_id": "J51",
+    "category": "jacket",
+    "name": "Aspen Camp Parka",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. A small exterior patch pocket. Designed for forest clearings. Simple urban style."
+  },
+  {
+    "product_id": "J52",
+    "category": "jacket",
+    "name": "Aspen Sunrise Windlayer",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "J53",
+    "category": "jacket",
+    "name": "Aspen Spring Trail Jacket",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. A small exterior patch pocket. Designed for forest clearings. Simple minimal style."
+  },
+  {
+    "product_id": "J54",
+    "category": "jacket",
+    "name": "Aspen Commuter Overshirt",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. A small exterior patch pocket. Designed for forest clearings. Simple urban style."
+  },
+  {
+    "product_id": "J55",
+    "category": "jacket",
+    "name": "Aspen Winter Hood Jacket",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "J56",
+    "category": "jacket",
+    "name": "Aspen Travel Pack Shell",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. A small exterior patch pocket. Designed for forest clearings. Simple minimal style."
+  },
+  {
+    "product_id": "J57",
+    "category": "jacket",
+    "name": "Aspen Cycle Layer",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. A small exterior patch pocket. Designed for forest clearings. Simple urban style."
+  },
+  {
+    "product_id": "J58",
+    "category": "jacket",
+    "name": "Aspen Summit Soft Jacket",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "J59",
+    "category": "jacket",
+    "name": "Aspen Rain Cape",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. A small exterior patch pocket. Designed for forest clearings. Simple minimal style."
+  },
+  {
+    "product_id": "J60",
+    "category": "jacket",
+    "name": "Aspen Town Field Jacket",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. A small exterior patch pocket. Designed for forest clearings. Simple urban style."
+  },
+  {
+    "product_id": "J61",
+    "category": "jacket",
+    "name": "Canyon Drizzle Anorak",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "J62",
+    "category": "jacket",
+    "name": "Canyon Ridge Shell",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. A contrasting edge trim. Designed for dry valley routes. Simple urban style."
+  },
+  {
+    "product_id": "J63",
+    "category": "jacket",
+    "name": "Canyon Camp Parka",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. A contrasting edge trim. Designed for dry valley routes. Simple outdoor style."
+  },
+  {
+    "product_id": "J64",
+    "category": "jacket",
+    "name": "Canyon Sunrise Windlayer",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "J65",
+    "category": "jacket",
+    "name": "Canyon Spring Trail Jacket",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. A contrasting edge trim. Designed for dry valley routes. Simple urban style."
+  },
+  {
+    "product_id": "J66",
+    "category": "jacket",
+    "name": "Canyon Commuter Overshirt",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. A contrasting edge trim. Designed for dry valley routes. Simple outdoor style."
+  },
+  {
+    "product_id": "J67",
+    "category": "jacket",
+    "name": "Canyon Winter Hood Jacket",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "J68",
+    "category": "jacket",
+    "name": "Canyon Travel Pack Shell",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. A contrasting edge trim. Designed for dry valley routes. Simple urban style."
+  },
+  {
+    "product_id": "J69",
+    "category": "jacket",
+    "name": "Canyon Cycle Layer",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. A contrasting edge trim. Designed for dry valley routes. Simple outdoor style."
+  },
+  {
+    "product_id": "J70",
+    "category": "jacket",
+    "name": "Canyon Summit Soft Jacket",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "J71",
+    "category": "jacket",
+    "name": "Canyon Rain Cape",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. A contrasting edge trim. Designed for dry valley routes. Simple urban style."
+  },
+  {
+    "product_id": "J72",
+    "category": "jacket",
+    "name": "Canyon Town Field Jacket",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. A contrasting edge trim. Designed for dry valley routes. Simple outdoor style."
+  },
+  {
+    "product_id": "J73",
+    "category": "jacket",
+    "name": "Willow Drizzle Anorak",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "J74",
+    "category": "jacket",
+    "name": "Willow Ridge Shell",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. A folded fabric tab. Designed for riverside paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J75",
+    "category": "jacket",
+    "name": "Willow Camp Parka",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. A folded fabric tab. Designed for riverside paths. Simple minimal style."
+  },
+  {
+    "product_id": "J76",
+    "category": "jacket",
+    "name": "Willow Sunrise Windlayer",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "J77",
+    "category": "jacket",
+    "name": "Willow Spring Trail Jacket",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. A folded fabric tab. Designed for riverside paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J78",
+    "category": "jacket",
+    "name": "Willow Commuter Overshirt",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. A folded fabric tab. Designed for riverside paths. Simple minimal style."
+  },
+  {
+    "product_id": "J79",
+    "category": "jacket",
+    "name": "Willow Winter Hood Jacket",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "J80",
+    "category": "jacket",
+    "name": "Willow Travel Pack Shell",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. A folded fabric tab. Designed for riverside paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J81",
+    "category": "jacket",
+    "name": "Willow Cycle Layer",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. A folded fabric tab. Designed for riverside paths. Simple minimal style."
+  },
+  {
+    "product_id": "J82",
+    "category": "jacket",
+    "name": "Willow Summit Soft Jacket",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "J83",
+    "category": "jacket",
+    "name": "Willow Rain Cape",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. A folded fabric tab. Designed for riverside paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J84",
+    "category": "jacket",
+    "name": "Willow Town Field Jacket",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. A folded fabric tab. Designed for riverside paths. Simple minimal style."
+  },
+  {
+    "product_id": "J85",
+    "category": "jacket",
+    "name": "Orchard Drizzle Anorak",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "J86",
+    "category": "jacket",
+    "name": "Orchard Ridge Shell",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. A simple stitched panel. Designed for countryside lanes. Simple minimal style."
+  },
+  {
+    "product_id": "J87",
+    "category": "jacket",
+    "name": "Orchard Camp Parka",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. A simple stitched panel. Designed for countryside lanes. Simple urban style."
+  },
+  {
+    "product_id": "J88",
+    "category": "jacket",
+    "name": "Orchard Sunrise Windlayer",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "J89",
+    "category": "jacket",
+    "name": "Orchard Spring Trail Jacket",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. A simple stitched panel. Designed for countryside lanes. Simple minimal style."
+  },
+  {
+    "product_id": "J90",
+    "category": "jacket",
+    "name": "Orchard Commuter Overshirt",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. A simple stitched panel. Designed for countryside lanes. Simple urban style."
+  },
+  {
+    "product_id": "J91",
+    "category": "jacket",
+    "name": "Orchard Winter Hood Jacket",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "J92",
+    "category": "jacket",
+    "name": "Orchard Travel Pack Shell",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. A simple stitched panel. Designed for countryside lanes. Simple minimal style."
+  },
+  {
+    "product_id": "J93",
+    "category": "jacket",
+    "name": "Orchard Cycle Layer",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. A simple stitched panel. Designed for countryside lanes. Simple urban style."
+  },
+  {
+    "product_id": "J94",
+    "category": "jacket",
+    "name": "Orchard Summit Soft Jacket",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "J95",
+    "category": "jacket",
+    "name": "Orchard Rain Cape",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. A simple stitched panel. Designed for countryside lanes. Simple minimal style."
+  },
+  {
+    "product_id": "J96",
+    "category": "jacket",
+    "name": "Orchard Town Field Jacket",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. A simple stitched panel. Designed for countryside lanes. Simple urban style."
+  },
+  {
+    "product_id": "J97",
+    "category": "jacket",
+    "name": "Cedar Drizzle Anorak",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "J98",
+    "category": "jacket",
+    "name": "Cedar Ridge Shell",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. A tonal decorative seam. Designed for parkland routes. Simple urban style."
+  },
+  {
+    "product_id": "J99",
+    "category": "jacket",
+    "name": "Cedar Camp Parka",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. A tonal decorative seam. Designed for parkland routes. Simple outdoor style."
+  },
+  {
+    "product_id": "J100",
+    "category": "jacket",
+    "name": "Cedar Sunrise Windlayer",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "J101",
+    "category": "jacket",
+    "name": "Cedar Spring Trail Jacket",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. A tonal decorative seam. Designed for parkland routes. Simple urban style."
+  },
+  {
+    "product_id": "J102",
+    "category": "jacket",
+    "name": "Cedar Commuter Overshirt",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. A tonal decorative seam. Designed for parkland routes. Simple outdoor style."
+  },
+  {
+    "product_id": "J103",
+    "category": "jacket",
+    "name": "Cedar Winter Hood Jacket",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "J104",
+    "category": "jacket",
+    "name": "Cedar Travel Pack Shell",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. A tonal decorative seam. Designed for parkland routes. Simple urban style."
+  },
+  {
+    "product_id": "J105",
+    "category": "jacket",
+    "name": "Cedar Cycle Layer",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. A tonal decorative seam. Designed for parkland routes. Simple outdoor style."
+  },
+  {
+    "product_id": "J106",
+    "category": "jacket",
+    "name": "Cedar Summit Soft Jacket",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "J107",
+    "category": "jacket",
+    "name": "Cedar Rain Cape",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. A tonal decorative seam. Designed for parkland routes. Simple urban style."
+  },
+  {
+    "product_id": "J108",
+    "category": "jacket",
+    "name": "Cedar Town Field Jacket",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. A tonal decorative seam. Designed for parkland routes. Simple outdoor style."
+  },
+  {
+    "product_id": "J109",
+    "category": "jacket",
+    "name": "Highland Drizzle Anorak",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for autumn day hikes. Helps shed light drizzle. Packs into its own pocket. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "J110",
+    "category": "jacket",
+    "name": "Highland Ridge Shell",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Jacket for fall hiking. Helps shed light drizzle. Adjustable cuffs. A compact zip pocket. Designed for hill country paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J111",
+    "category": "jacket",
+    "name": "Highland Camp Parka",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm jacket for winter camping. Hood and two front pockets. A compact zip pocket. Designed for hill country paths. Simple minimal style."
+  },
+  {
+    "product_id": "J112",
+    "category": "jacket",
+    "name": "Highland Sunrise Windlayer",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight jacket for summer hiking. Full zip and stand collar. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "J113",
+    "category": "jacket",
+    "name": "Highland Spring Trail Jacket",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for spring hikes. Helps shed light drizzle. Zip chest pocket. A compact zip pocket. Designed for hill country paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J114",
+    "category": "jacket",
+    "name": "Highland Commuter Overshirt",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for spring commuting. Button front and two patch pockets. A compact zip pocket. Designed for hill country paths. Simple minimal style."
+  },
+  {
+    "product_id": "J115",
+    "category": "jacket",
+    "name": "Highland Winter Hood Jacket",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for winter walking. Soft lining and adjustable hood. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "J116",
+    "category": "jacket",
+    "name": "Highland Travel Pack Shell",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight shell for autumn travel. Packs into its own pocket. A compact zip pocket. Designed for hill country paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J117",
+    "category": "jacket",
+    "name": "Highland Cycle Layer",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight jacket for summer cycling. Zip front and rear pocket. A compact zip pocket. Designed for hill country paths. Simple minimal style."
+  },
+  {
+    "product_id": "J118",
+    "category": "jacket",
+    "name": "Highland Summit Soft Jacket",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm jacket for autumn hiking. Soft lining and two hand pockets. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "J119",
+    "category": "jacket",
+    "name": "Highland Rain Cape",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Jacket for fall walks. Helps shed light drizzle. Snap front and adjustable hood. A compact zip pocket. Designed for hill country paths. Simple outdoor style."
+  },
+  {
+    "product_id": "J120",
+    "category": "jacket",
+    "name": "Highland Town Field Jacket",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jacket for autumn city visits. Button front and four patch pockets. A compact zip pocket. Designed for hill country paths. Simple minimal style."
+  },
+  {
+    "product_id": "M05",
+    "category": "midlayer",
+    "name": "Juniper Trail Zip Fleece",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "M06",
+    "category": "midlayer",
+    "name": "Juniper Summer Crew Layer",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. An internal hanging loop. Designed for woodland paths. Simple minimal style."
+  },
+  {
+    "product_id": "M07",
+    "category": "midlayer",
+    "name": "Juniper Camp Half Zip",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. An internal hanging loop. Designed for woodland paths. Simple urban style."
+  },
+  {
+    "product_id": "M08",
+    "category": "midlayer",
+    "name": "Juniper Travel Cardigan",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "M09",
+    "category": "midlayer",
+    "name": "Granite Trail Zip Fleece",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "M10",
+    "category": "midlayer",
+    "name": "Granite Summer Crew Layer",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. A contrast pull tab. Designed for rocky trail approaches. Simple urban style."
+  },
+  {
+    "product_id": "M11",
+    "category": "midlayer",
+    "name": "Granite Camp Half Zip",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. A contrast pull tab. Designed for rocky trail approaches. Simple outdoor style."
+  },
+  {
+    "product_id": "M12",
+    "category": "midlayer",
+    "name": "Granite Travel Cardigan",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "M13",
+    "category": "midlayer",
+    "name": "Harbor Trail Zip Fleece",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "M14",
+    "category": "midlayer",
+    "name": "Harbor Summer Crew Layer",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. A plain stitched label. Designed for coastal paths. Simple outdoor style."
+  },
+  {
+    "product_id": "M15",
+    "category": "midlayer",
+    "name": "Harbor Camp Half Zip",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. A plain stitched label. Designed for coastal paths. Simple minimal style."
+  },
+  {
+    "product_id": "M16",
+    "category": "midlayer",
+    "name": "Harbor Travel Cardigan",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "M17",
+    "category": "midlayer",
+    "name": "Aspen Trail Zip Fleece",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "M18",
+    "category": "midlayer",
+    "name": "Aspen Summer Crew Layer",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. A small exterior patch pocket. Designed for forest clearings. Simple minimal style."
+  },
+  {
+    "product_id": "M19",
+    "category": "midlayer",
+    "name": "Aspen Camp Half Zip",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. A small exterior patch pocket. Designed for forest clearings. Simple urban style."
+  },
+  {
+    "product_id": "M20",
+    "category": "midlayer",
+    "name": "Aspen Travel Cardigan",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "M21",
+    "category": "midlayer",
+    "name": "Canyon Trail Zip Fleece",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "M22",
+    "category": "midlayer",
+    "name": "Canyon Summer Crew Layer",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. A contrasting edge trim. Designed for dry valley routes. Simple urban style."
+  },
+  {
+    "product_id": "M23",
+    "category": "midlayer",
+    "name": "Canyon Camp Half Zip",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. A contrasting edge trim. Designed for dry valley routes. Simple outdoor style."
+  },
+  {
+    "product_id": "M24",
+    "category": "midlayer",
+    "name": "Canyon Travel Cardigan",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "M25",
+    "category": "midlayer",
+    "name": "Willow Trail Zip Fleece",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "M26",
+    "category": "midlayer",
+    "name": "Willow Summer Crew Layer",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. A folded fabric tab. Designed for riverside paths. Simple outdoor style."
+  },
+  {
+    "product_id": "M27",
+    "category": "midlayer",
+    "name": "Willow Camp Half Zip",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. A folded fabric tab. Designed for riverside paths. Simple minimal style."
+  },
+  {
+    "product_id": "M28",
+    "category": "midlayer",
+    "name": "Willow Travel Cardigan",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "M29",
+    "category": "midlayer",
+    "name": "Orchard Trail Zip Fleece",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "M30",
+    "category": "midlayer",
+    "name": "Orchard Summer Crew Layer",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. A simple stitched panel. Designed for countryside lanes. Simple minimal style."
+  },
+  {
+    "product_id": "M31",
+    "category": "midlayer",
+    "name": "Orchard Camp Half Zip",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. A simple stitched panel. Designed for countryside lanes. Simple urban style."
+  },
+  {
+    "product_id": "M32",
+    "category": "midlayer",
+    "name": "Orchard Travel Cardigan",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "M33",
+    "category": "midlayer",
+    "name": "Cedar Trail Zip Fleece",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "M34",
+    "category": "midlayer",
+    "name": "Cedar Summer Crew Layer",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. A tonal decorative seam. Designed for parkland routes. Simple urban style."
+  },
+  {
+    "product_id": "M35",
+    "category": "midlayer",
+    "name": "Cedar Camp Half Zip",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. A tonal decorative seam. Designed for parkland routes. Simple outdoor style."
+  },
+  {
+    "product_id": "M36",
+    "category": "midlayer",
+    "name": "Cedar Travel Cardigan",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "M37",
+    "category": "midlayer",
+    "name": "Highland Trail Zip Fleece",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm midlayer for autumn hiking. Zip front and two hand pockets. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "M38",
+    "category": "midlayer",
+    "name": "Highland Summer Crew Layer",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight midlayer for summer hikes. Crew neck and chest pocket. A compact zip pocket. Designed for hill country paths. Simple outdoor style."
+  },
+  {
+    "product_id": "M39",
+    "category": "midlayer",
+    "name": "Highland Camp Half Zip",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm midlayer for winter camping. Half zip and stand collar. A compact zip pocket. Designed for hill country paths. Simple minimal style."
+  },
+  {
+    "product_id": "M40",
+    "category": "midlayer",
+    "name": "Highland Travel Cardigan",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Midlayer for spring travel. Button front and two patch pockets. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "P05",
+    "category": "pants",
+    "name": "Juniper Trail Pocket Pants",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "P06",
+    "category": "pants",
+    "name": "Juniper Summer Drawcord Pants",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. An internal hanging loop. Designed for woodland paths. Simple minimal style."
+  },
+  {
+    "product_id": "P07",
+    "category": "pants",
+    "name": "Juniper Camp Lined Pants",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. An internal hanging loop. Designed for woodland paths. Simple urban style."
+  },
+  {
+    "product_id": "P08",
+    "category": "pants",
+    "name": "Juniper Travel Straight Pants",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "P09",
+    "category": "pants",
+    "name": "Granite Trail Pocket Pants",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "P10",
+    "category": "pants",
+    "name": "Granite Summer Drawcord Pants",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. A contrast pull tab. Designed for rocky trail approaches. Simple urban style."
+  },
+  {
+    "product_id": "P11",
+    "category": "pants",
+    "name": "Granite Camp Lined Pants",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. A contrast pull tab. Designed for rocky trail approaches. Simple outdoor style."
+  },
+  {
+    "product_id": "P12",
+    "category": "pants",
+    "name": "Granite Travel Straight Pants",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "P13",
+    "category": "pants",
+    "name": "Harbor Trail Pocket Pants",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "P14",
+    "category": "pants",
+    "name": "Harbor Summer Drawcord Pants",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. A plain stitched label. Designed for coastal paths. Simple outdoor style."
+  },
+  {
+    "product_id": "P15",
+    "category": "pants",
+    "name": "Harbor Camp Lined Pants",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. A plain stitched label. Designed for coastal paths. Simple minimal style."
+  },
+  {
+    "product_id": "P16",
+    "category": "pants",
+    "name": "Harbor Travel Straight Pants",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "P17",
+    "category": "pants",
+    "name": "Aspen Trail Pocket Pants",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "P18",
+    "category": "pants",
+    "name": "Aspen Summer Drawcord Pants",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. A small exterior patch pocket. Designed for forest clearings. Simple minimal style."
+  },
+  {
+    "product_id": "P19",
+    "category": "pants",
+    "name": "Aspen Camp Lined Pants",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. A small exterior patch pocket. Designed for forest clearings. Simple urban style."
+  },
+  {
+    "product_id": "P20",
+    "category": "pants",
+    "name": "Aspen Travel Straight Pants",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "P21",
+    "category": "pants",
+    "name": "Canyon Trail Pocket Pants",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "P22",
+    "category": "pants",
+    "name": "Canyon Summer Drawcord Pants",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. A contrasting edge trim. Designed for dry valley routes. Simple urban style."
+  },
+  {
+    "product_id": "P23",
+    "category": "pants",
+    "name": "Canyon Camp Lined Pants",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. A contrasting edge trim. Designed for dry valley routes. Simple outdoor style."
+  },
+  {
+    "product_id": "P24",
+    "category": "pants",
+    "name": "Canyon Travel Straight Pants",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "P25",
+    "category": "pants",
+    "name": "Willow Trail Pocket Pants",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "P26",
+    "category": "pants",
+    "name": "Willow Summer Drawcord Pants",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. A folded fabric tab. Designed for riverside paths. Simple outdoor style."
+  },
+  {
+    "product_id": "P27",
+    "category": "pants",
+    "name": "Willow Camp Lined Pants",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. A folded fabric tab. Designed for riverside paths. Simple minimal style."
+  },
+  {
+    "product_id": "P28",
+    "category": "pants",
+    "name": "Willow Travel Straight Pants",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "P29",
+    "category": "pants",
+    "name": "Orchard Trail Pocket Pants",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "P30",
+    "category": "pants",
+    "name": "Orchard Summer Drawcord Pants",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. A simple stitched panel. Designed for countryside lanes. Simple minimal style."
+  },
+  {
+    "product_id": "P31",
+    "category": "pants",
+    "name": "Orchard Camp Lined Pants",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. A simple stitched panel. Designed for countryside lanes. Simple urban style."
+  },
+  {
+    "product_id": "P32",
+    "category": "pants",
+    "name": "Orchard Travel Straight Pants",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "P33",
+    "category": "pants",
+    "name": "Cedar Trail Pocket Pants",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "XS",
+      "S"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "P34",
+    "category": "pants",
+    "name": "Cedar Summer Drawcord Pants",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. A tonal decorative seam. Designed for parkland routes. Simple urban style."
+  },
+  {
+    "product_id": "P35",
+    "category": "pants",
+    "name": "Cedar Camp Lined Pants",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. A tonal decorative seam. Designed for parkland routes. Simple outdoor style."
+  },
+  {
+    "product_id": "P36",
+    "category": "pants",
+    "name": "Cedar Travel Straight Pants",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "P37",
+    "category": "pants",
+    "name": "Highland Trail Pocket Pants",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for autumn hiking. Two hand pockets and one zip pocket. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "P38",
+    "category": "pants",
+    "name": "Highland Summer Drawcord Pants",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Lightweight pants for summer hikes. Drawcord waist and side pockets. A compact zip pocket. Designed for hill country paths. Simple outdoor style."
+  },
+  {
+    "product_id": "P39",
+    "category": "pants",
+    "name": "Highland Camp Lined Pants",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Warm pants for winter campsite evenings. Soft lining and two pockets. A compact zip pocket. Designed for hill country paths. Simple minimal style."
+  },
+  {
+    "product_id": "P40",
+    "category": "pants",
+    "name": "Highland Travel Straight Pants",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Pants for spring travel. Straight leg and two rear pockets. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "A05",
+    "category": "accessory",
+    "name": "Juniper Trail Visor Cap",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "A06",
+    "category": "accessory",
+    "name": "Juniper Camp Beanie",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. An internal hanging loop. Designed for woodland paths. Simple minimal style."
+  },
+  {
+    "product_id": "A07",
+    "category": "accessory",
+    "name": "Juniper Travel Pouch",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. An internal hanging loop. Designed for woodland paths. Simple urban style."
+  },
+  {
+    "product_id": "A08",
+    "category": "accessory",
+    "name": "Juniper Walking Scarf",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. An internal hanging loop. Designed for woodland paths. Simple outdoor style."
+  },
+  {
+    "product_id": "A09",
+    "category": "accessory",
+    "name": "Granite Trail Visor Cap",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "A10",
+    "category": "accessory",
+    "name": "Granite Camp Beanie",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. A contrast pull tab. Designed for rocky trail approaches. Simple urban style."
+  },
+  {
+    "product_id": "A11",
+    "category": "accessory",
+    "name": "Granite Travel Pouch",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. A contrast pull tab. Designed for rocky trail approaches. Simple outdoor style."
+  },
+  {
+    "product_id": "A12",
+    "category": "accessory",
+    "name": "Granite Walking Scarf",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. A contrast pull tab. Designed for rocky trail approaches. Simple minimal style."
+  },
+  {
+    "product_id": "A13",
+    "category": "accessory",
+    "name": "Harbor Trail Visor Cap",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "A14",
+    "category": "accessory",
+    "name": "Harbor Camp Beanie",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. A plain stitched label. Designed for coastal paths. Simple outdoor style."
+  },
+  {
+    "product_id": "A15",
+    "category": "accessory",
+    "name": "Harbor Travel Pouch",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. A plain stitched label. Designed for coastal paths. Simple minimal style."
+  },
+  {
+    "product_id": "A16",
+    "category": "accessory",
+    "name": "Harbor Walking Scarf",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. A plain stitched label. Designed for coastal paths. Simple urban style."
+  },
+  {
+    "product_id": "A17",
+    "category": "accessory",
+    "name": "Aspen Trail Visor Cap",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "A18",
+    "category": "accessory",
+    "name": "Aspen Camp Beanie",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. A small exterior patch pocket. Designed for forest clearings. Simple minimal style."
+  },
+  {
+    "product_id": "A19",
+    "category": "accessory",
+    "name": "Aspen Travel Pouch",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. A small exterior patch pocket. Designed for forest clearings. Simple urban style."
+  },
+  {
+    "product_id": "A20",
+    "category": "accessory",
+    "name": "Aspen Walking Scarf",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. A small exterior patch pocket. Designed for forest clearings. Simple outdoor style."
+  },
+  {
+    "product_id": "A21",
+    "category": "accessory",
+    "name": "Canyon Trail Visor Cap",
+    "colors": [
+      "Olive",
+      "Stone"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "A22",
+    "category": "accessory",
+    "name": "Canyon Camp Beanie",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. A contrasting edge trim. Designed for dry valley routes. Simple urban style."
+  },
+  {
+    "product_id": "A23",
+    "category": "accessory",
+    "name": "Canyon Travel Pouch",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. A contrasting edge trim. Designed for dry valley routes. Simple outdoor style."
+  },
+  {
+    "product_id": "A24",
+    "category": "accessory",
+    "name": "Canyon Walking Scarf",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. A contrasting edge trim. Designed for dry valley routes. Simple minimal style."
+  },
+  {
+    "product_id": "A25",
+    "category": "accessory",
+    "name": "Willow Trail Visor Cap",
+    "colors": [
+      "Plum",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "A26",
+    "category": "accessory",
+    "name": "Willow Camp Beanie",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. A folded fabric tab. Designed for riverside paths. Simple outdoor style."
+  },
+  {
+    "product_id": "A27",
+    "category": "accessory",
+    "name": "Willow Travel Pouch",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. A folded fabric tab. Designed for riverside paths. Simple minimal style."
+  },
+  {
+    "product_id": "A28",
+    "category": "accessory",
+    "name": "Willow Walking Scarf",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. A folded fabric tab. Designed for riverside paths. Simple urban style."
+  },
+  {
+    "product_id": "A29",
+    "category": "accessory",
+    "name": "Orchard Trail Visor Cap",
+    "colors": [
+      "Red",
+      "Navy"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "A30",
+    "category": "accessory",
+    "name": "Orchard Camp Beanie",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. A simple stitched panel. Designed for countryside lanes. Simple minimal style."
+  },
+  {
+    "product_id": "A31",
+    "category": "accessory",
+    "name": "Orchard Travel Pouch",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. A simple stitched panel. Designed for countryside lanes. Simple urban style."
+  },
+  {
+    "product_id": "A32",
+    "category": "accessory",
+    "name": "Orchard Walking Scarf",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. A simple stitched panel. Designed for countryside lanes. Simple outdoor style."
+  },
+  {
+    "product_id": "A33",
+    "category": "accessory",
+    "name": "Cedar Trail Visor Cap",
+    "colors": [
+      "Teal",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "A34",
+    "category": "accessory",
+    "name": "Cedar Camp Beanie",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. A tonal decorative seam. Designed for parkland routes. Simple urban style."
+  },
+  {
+    "product_id": "A35",
+    "category": "accessory",
+    "name": "Cedar Travel Pouch",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. A tonal decorative seam. Designed for parkland routes. Simple outdoor style."
+  },
+  {
+    "product_id": "A36",
+    "category": "accessory",
+    "name": "Cedar Walking Scarf",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. A tonal decorative seam. Designed for parkland routes. Simple minimal style."
+  },
+  {
+    "product_id": "A37",
+    "category": "accessory",
+    "name": "Highland Trail Visor Cap",
+    "colors": [
+      "Black",
+      "Slate"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Lightweight visor cap for autumn hiking. Adjustable back strap. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  },
+  {
+    "product_id": "A38",
+    "category": "accessory",
+    "name": "Highland Camp Beanie",
+    "colors": [
+      "Stone",
+      "Moss"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm beanie for winter camping. Folded edge and plain design. A compact zip pocket. Designed for hill country paths. Simple outdoor style."
+  },
+  {
+    "product_id": "A39",
+    "category": "accessory",
+    "name": "Highland Travel Pouch",
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Small pouch for spring travel. Zip closure and an adjustable strap. A compact zip pocket. Designed for hill country paths. Simple minimal style."
+  },
+  {
+    "product_id": "A40",
+    "category": "accessory",
+    "name": "Highland Walking Scarf",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Warm scarf for autumn walks. Plain design with fringed ends. A compact zip pocket. Designed for hill country paths. Simple urban style."
+  }
+]

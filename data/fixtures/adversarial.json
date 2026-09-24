@@ -1,0 +1,12 @@
+{
+  "label":"Validation test input — NOT claims observed from the live generator",
+  "raw":{"product_id":"J10","category":"jacket","name":"Plain Hood Shell","colors":["Black","Stone"],"sizes":["M","L"],"description":"Lightweight shell with hood."},
+  "candidates":{"product_id":"J10","attributes":[
+    {"attribute_id":"fixture-rating","kind":"benefits","value":"20,000 mm waterproof","support":"explicit","evidence":[{"field":"description","quote":"shell"}]},
+    {"attribute_id":"fixture-brand","kind":"search_keywords","value":"Gore-Tex","support":"inferred","evidence":[{"field":"description","quote":"shell"}]},
+    {"attribute_id":"fixture-temperature","kind":"benefits","value":"comfortable at 10°C","support":"inferred","evidence":[{"field":"description","quote":"Lightweight"}]},
+    {"attribute_id":"fixture-hood","kind":"benefits","value":"waterproof","support":"inferred","evidence":[{"field":"description","quote":"hood"}]},
+    {"attribute_id":"fixture-season","kind":"season_suitability","value":"fall","support":"inferred","evidence":[{"field":"description","quote":"shell"}]}
+  ]},
+  "expected_decision":"reject"
+}

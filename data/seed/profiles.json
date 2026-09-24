@@ -1,0 +1,4 @@
+[
+  {"profile_id":"alex","display_name":"Alex","preferred_size":"M","preferred_colors":["Black","Slate","Stone","Sand"],"budget_cents":20000,"preferred_style":["outdoor"],"owned_product_ids":["M01"]},
+  {"profile_id":"sam","display_name":"Sam","preferred_size":"L","preferred_colors":["Red","Moss"],"budget_cents":15000,"preferred_style":["minimal"],"owned_product_ids":["P04"]}
+]

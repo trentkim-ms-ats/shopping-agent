@@ -1,0 +1,8 @@
+{
+  "status": "not_run",
+  "mode": "live",
+  "reason": "No OpenAI API key or account-accessible text/image model IDs were configured during implementation.",
+  "measurements": null,
+  "human_reviewed_unsupported_claim_count": null,
+  "fixture_results": "results.fixture.json"
+}

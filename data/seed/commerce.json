@@ -1,0 +1,9206 @@
+[
+  {
+    "product_id": "J01",
+    "currency": "USD",
+    "price_cents": 14900,
+    "variants": [
+      {
+        "variant_id": "J01-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J01-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J01-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "variant_id": "J01-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 72,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J02",
+    "currency": "USD",
+    "price_cents": 11900,
+    "variants": [
+      {
+        "variant_id": "J02-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "variant_id": "J02-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 4
+      }
+    ],
+    "popularity_30d": 58,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J03",
+    "currency": "USD",
+    "price_cents": 17900,
+    "variants": [
+      {
+        "variant_id": "J03-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J03-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "variant_id": "J03-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 38,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J04",
+    "currency": "USD",
+    "price_cents": 9900,
+    "variants": [
+      {
+        "variant_id": "J04-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J04-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 24,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J05",
+    "currency": "USD",
+    "price_cents": 18900,
+    "variants": [
+      {
+        "variant_id": "J05-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J05-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 4
+      }
+    ],
+    "popularity_30d": 83,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J06",
+    "currency": "USD",
+    "price_cents": 7900,
+    "variants": [
+      {
+        "variant_id": "J06-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 9
+      },
+      {
+        "variant_id": "J06-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 66,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J07",
+    "currency": "USD",
+    "price_cents": 15900,
+    "variants": [
+      {
+        "variant_id": "J07-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J07-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 130,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J08",
+    "currency": "USD",
+    "price_cents": 8900,
+    "variants": [
+      {
+        "variant_id": "J08-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 4
+      },
+      {
+        "variant_id": "J08-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 95,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J09",
+    "currency": "USD",
+    "price_cents": 26000,
+    "variants": [
+      {
+        "variant_id": "J09-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J09-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 175,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J10",
+    "currency": "USD",
+    "price_cents": 6900,
+    "variants": [
+      {
+        "variant_id": "J10-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J10-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 4
+      }
+    ],
+    "popularity_30d": 210,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J11",
+    "currency": "USD",
+    "price_cents": 19900,
+    "variants": [
+      {
+        "variant_id": "J11-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 25
+      },
+      {
+        "variant_id": "J11-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 18
+      }
+    ],
+    "popularity_30d": 950,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J12",
+    "currency": "USD",
+    "price_cents": 13900,
+    "variants": [
+      {
+        "variant_id": "J12-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J12-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J12-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 81,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "M01",
+    "currency": "USD",
+    "price_cents": 6500,
+    "variants": [
+      {
+        "variant_id": "M01-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 9
+      },
+      {
+        "variant_id": "M01-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 65,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "M02",
+    "currency": "USD",
+    "price_cents": 7900,
+    "variants": [
+      {
+        "variant_id": "M02-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "M02-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 50,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "M03",
+    "currency": "USD",
+    "price_cents": 5900,
+    "variants": [
+      {
+        "variant_id": "M03-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "variant_id": "M03-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 42,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "M04",
+    "currency": "USD",
+    "price_cents": 8500,
+    "variants": [
+      {
+        "variant_id": "M04-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "M04-Moss-XL",
+        "color": "Moss",
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 40,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "P01",
+    "currency": "USD",
+    "price_cents": 8900,
+    "variants": [
+      {
+        "variant_id": "P01-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "P01-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 4
+      }
+    ],
+    "popularity_30d": 69,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "P02",
+    "currency": "USD",
+    "price_cents": 7500,
+    "variants": [
+      {
+        "variant_id": "P02-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "P02-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 54,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "P03",
+    "currency": "USD",
+    "price_cents": 9900,
+    "variants": [
+      {
+        "variant_id": "P03-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "P03-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 32,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "P04",
+    "currency": "USD",
+    "price_cents": 6900,
+    "variants": [
+      {
+        "variant_id": "P04-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "P04-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 30,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "A01",
+    "currency": "USD",
+    "price_cents": 2500,
+    "variants": [
+      {
+        "variant_id": "A01-Stone-One",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 10
+      },
+      {
+        "variant_id": "A01-Slate-One",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 62,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "A02",
+    "currency": "USD",
+    "price_cents": 3500,
+    "variants": [
+      {
+        "variant_id": "A02-Sand-One",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 6
+      },
+      {
+        "variant_id": "A02-Black-One",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 41,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "A03",
+    "currency": "USD",
+    "price_cents": 2900,
+    "variants": [
+      {
+        "variant_id": "A03-Moss-One",
+        "color": "Moss",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A03-Slate-One",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 34,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "A04",
+    "currency": "USD",
+    "price_cents": 3200,
+    "variants": [
+      {
+        "variant_id": "A04-Red-One",
+        "color": "Red",
+        "size": "One Size",
+        "stock": 8
+      },
+      {
+        "variant_id": "A04-Black-One",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 45,
+    "snapshot_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "product_id": "J13",
+    "currency": "USD",
+    "price_cents": 12900,
+    "variants": [
+      {
+        "variant_id": "J13-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J13-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J13-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J13-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J13-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J13-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 493,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J14",
+    "currency": "USD",
+    "price_cents": 13900,
+    "variants": [
+      {
+        "variant_id": "J14-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J14-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J14-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J14-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J14-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J14-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 530,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J15",
+    "currency": "USD",
+    "price_cents": 16900,
+    "variants": [
+      {
+        "variant_id": "J15-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J15-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J15-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J15-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J15-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J15-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 567,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J16",
+    "currency": "USD",
+    "price_cents": 8900,
+    "variants": [
+      {
+        "variant_id": "J16-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J16-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J16-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J16-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J16-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J16-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 604,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J17",
+    "currency": "USD",
+    "price_cents": 10900,
+    "variants": [
+      {
+        "variant_id": "J17-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J17-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J17-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J17-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J17-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J17-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 641,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J18",
+    "currency": "USD",
+    "price_cents": 9900,
+    "variants": [
+      {
+        "variant_id": "J18-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J18-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J18-Plum-XL",
+        "color": "Plum",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J18-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J18-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J18-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 678,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J19",
+    "currency": "USD",
+    "price_cents": 18900,
+    "variants": [
+      {
+        "variant_id": "J19-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J19-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J19-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J19-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J19-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J19-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 715,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J20",
+    "currency": "USD",
+    "price_cents": 11900,
+    "variants": [
+      {
+        "variant_id": "J20-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J20-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J20-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J20-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J20-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J20-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 752,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J21",
+    "currency": "USD",
+    "price_cents": 10900,
+    "variants": [
+      {
+        "variant_id": "J21-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J21-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J21-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J21-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J21-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J21-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 789,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J22",
+    "currency": "USD",
+    "price_cents": 15900,
+    "variants": [
+      {
+        "variant_id": "J22-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 13
+      },
+      {
+        "variant_id": "J22-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 14
+      },
+      {
+        "variant_id": "J22-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 18
+      },
+      {
+        "variant_id": "J22-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 1
+      }
+    ],
+    "popularity_30d": 46,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J23",
+    "currency": "USD",
+    "price_cents": 14900,
+    "variants": [
+      {
+        "variant_id": "J23-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J23-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J23-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J23-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J23-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J23-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 83,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J24",
+    "currency": "USD",
+    "price_cents": 12900,
+    "variants": [
+      {
+        "variant_id": "J24-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J24-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J24-Rust-XL",
+        "color": "Rust",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J24-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J24-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J24-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 120,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J25",
+    "currency": "USD",
+    "price_cents": 13600,
+    "variants": [
+      {
+        "variant_id": "J25-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J25-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J25-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J25-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J25-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J25-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 176,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J26",
+    "currency": "USD",
+    "price_cents": 14600,
+    "variants": [
+      {
+        "variant_id": "J26-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J26-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J26-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J26-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J26-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J26-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 213,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J27",
+    "currency": "USD",
+    "price_cents": 17600,
+    "variants": [
+      {
+        "variant_id": "J27-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J27-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J27-Rust-XL",
+        "color": "Rust",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J27-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J27-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J27-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 250,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J28",
+    "currency": "USD",
+    "price_cents": 9600,
+    "variants": [
+      {
+        "variant_id": "J28-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J28-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J28-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J28-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J28-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J28-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 287,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J29",
+    "currency": "USD",
+    "price_cents": 11600,
+    "variants": [
+      {
+        "variant_id": "J29-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J29-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J29-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J29-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J29-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J29-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 324,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J30",
+    "currency": "USD",
+    "price_cents": 10600,
+    "variants": [
+      {
+        "variant_id": "J30-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J30-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J30-Red-XL",
+        "color": "Red",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J30-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J30-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J30-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 361,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J31",
+    "currency": "USD",
+    "price_cents": 19600,
+    "variants": [
+      {
+        "variant_id": "J31-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J31-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J31-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J31-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J31-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J31-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 398,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J32",
+    "currency": "USD",
+    "price_cents": 12600,
+    "variants": [
+      {
+        "variant_id": "J32-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J32-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J32-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J32-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J32-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J32-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 435,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J33",
+    "currency": "USD",
+    "price_cents": 11600,
+    "variants": [
+      {
+        "variant_id": "J33-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 10
+      },
+      {
+        "variant_id": "J33-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 11
+      },
+      {
+        "variant_id": "J33-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 15
+      },
+      {
+        "variant_id": "J33-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 472,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J34",
+    "currency": "USD",
+    "price_cents": 16600,
+    "variants": [
+      {
+        "variant_id": "J34-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J34-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J34-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J34-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J34-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J34-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 509,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J35",
+    "currency": "USD",
+    "price_cents": 15600,
+    "variants": [
+      {
+        "variant_id": "J35-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J35-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J35-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J35-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J35-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J35-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 546,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J36",
+    "currency": "USD",
+    "price_cents": 13600,
+    "variants": [
+      {
+        "variant_id": "J36-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J36-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J36-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J36-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J36-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J36-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 583,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J37",
+    "currency": "USD",
+    "price_cents": 14300,
+    "variants": [
+      {
+        "variant_id": "J37-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J37-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J37-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J37-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J37-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J37-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 639,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J38",
+    "currency": "USD",
+    "price_cents": 15300,
+    "variants": [
+      {
+        "variant_id": "J38-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J38-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J38-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J38-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J38-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J38-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 676,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J39",
+    "currency": "USD",
+    "price_cents": 18300,
+    "variants": [
+      {
+        "variant_id": "J39-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J39-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J39-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "J39-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J39-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J39-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 713,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J40",
+    "currency": "USD",
+    "price_cents": 10300,
+    "variants": [
+      {
+        "variant_id": "J40-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J40-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J40-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J40-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J40-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J40-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 750,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J41",
+    "currency": "USD",
+    "price_cents": 12300,
+    "variants": [
+      {
+        "variant_id": "J41-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J41-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J41-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J41-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J41-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J41-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 787,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J42",
+    "currency": "USD",
+    "price_cents": 11300,
+    "variants": [
+      {
+        "variant_id": "J42-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J42-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J42-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J42-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J42-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J42-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 44,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J43",
+    "currency": "USD",
+    "price_cents": 20300,
+    "variants": [
+      {
+        "variant_id": "J43-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J43-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J43-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J43-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J43-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J43-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 81,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J44",
+    "currency": "USD",
+    "price_cents": 13300,
+    "variants": [
+      {
+        "variant_id": "J44-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 7
+      },
+      {
+        "variant_id": "J44-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "variant_id": "J44-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 12
+      },
+      {
+        "variant_id": "J44-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 13
+      }
+    ],
+    "popularity_30d": 118,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J45",
+    "currency": "USD",
+    "price_cents": 12300,
+    "variants": [
+      {
+        "variant_id": "J45-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J45-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J45-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J45-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J45-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J45-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 155,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J46",
+    "currency": "USD",
+    "price_cents": 17300,
+    "variants": [
+      {
+        "variant_id": "J46-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J46-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J46-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J46-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J46-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J46-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 192,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J47",
+    "currency": "USD",
+    "price_cents": 16300,
+    "variants": [
+      {
+        "variant_id": "J47-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J47-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J47-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J47-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J47-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J47-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 229,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J48",
+    "currency": "USD",
+    "price_cents": 14300,
+    "variants": [
+      {
+        "variant_id": "J48-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J48-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J48-Plum-XL",
+        "color": "Plum",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J48-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J48-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J48-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 266,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J49",
+    "currency": "USD",
+    "price_cents": 15000,
+    "variants": [
+      {
+        "variant_id": "J49-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J49-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J49-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J49-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J49-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J49-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 322,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J50",
+    "currency": "USD",
+    "price_cents": 16000,
+    "variants": [
+      {
+        "variant_id": "J50-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J50-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J50-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J50-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J50-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J50-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 359,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J51",
+    "currency": "USD",
+    "price_cents": 19000,
+    "variants": [
+      {
+        "variant_id": "J51-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J51-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J51-Plum-XL",
+        "color": "Plum",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J51-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J51-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J51-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 396,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J52",
+    "currency": "USD",
+    "price_cents": 11000,
+    "variants": [
+      {
+        "variant_id": "J52-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J52-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J52-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J52-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J52-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J52-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 433,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J53",
+    "currency": "USD",
+    "price_cents": 13000,
+    "variants": [
+      {
+        "variant_id": "J53-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J53-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J53-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J53-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J53-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J53-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 470,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J54",
+    "currency": "USD",
+    "price_cents": 12000,
+    "variants": [
+      {
+        "variant_id": "J54-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J54-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J54-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "J54-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J54-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J54-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 507,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J55",
+    "currency": "USD",
+    "price_cents": 21000,
+    "variants": [
+      {
+        "variant_id": "J55-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 4
+      },
+      {
+        "variant_id": "J55-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J55-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "variant_id": "J55-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 10
+      }
+    ],
+    "popularity_30d": 544,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J56",
+    "currency": "USD",
+    "price_cents": 14000,
+    "variants": [
+      {
+        "variant_id": "J56-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J56-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J56-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J56-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J56-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J56-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 581,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J57",
+    "currency": "USD",
+    "price_cents": 13000,
+    "variants": [
+      {
+        "variant_id": "J57-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J57-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J57-Rust-XL",
+        "color": "Rust",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J57-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J57-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J57-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 618,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J58",
+    "currency": "USD",
+    "price_cents": 18000,
+    "variants": [
+      {
+        "variant_id": "J58-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J58-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J58-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J58-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J58-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J58-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 655,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J59",
+    "currency": "USD",
+    "price_cents": 17000,
+    "variants": [
+      {
+        "variant_id": "J59-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J59-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J59-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J59-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J59-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J59-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 692,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J60",
+    "currency": "USD",
+    "price_cents": 15000,
+    "variants": [
+      {
+        "variant_id": "J60-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J60-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J60-Red-XL",
+        "color": "Red",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J60-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J60-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J60-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 729,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J61",
+    "currency": "USD",
+    "price_cents": 15700,
+    "variants": [
+      {
+        "variant_id": "J61-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J61-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J61-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J61-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J61-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J61-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 785,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J62",
+    "currency": "USD",
+    "price_cents": 16700,
+    "variants": [
+      {
+        "variant_id": "J62-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J62-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J62-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J62-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J62-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J62-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 42,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J63",
+    "currency": "USD",
+    "price_cents": 19700,
+    "variants": [
+      {
+        "variant_id": "J63-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J63-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J63-Red-XL",
+        "color": "Red",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J63-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J63-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J63-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 79,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J64",
+    "currency": "USD",
+    "price_cents": 11700,
+    "variants": [
+      {
+        "variant_id": "J64-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J64-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J64-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J64-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J64-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J64-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 116,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J65",
+    "currency": "USD",
+    "price_cents": 13700,
+    "variants": [
+      {
+        "variant_id": "J65-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J65-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J65-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J65-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J65-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J65-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 153,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J66",
+    "currency": "USD",
+    "price_cents": 12700,
+    "variants": [
+      {
+        "variant_id": "J66-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 1
+      },
+      {
+        "variant_id": "J66-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "variant_id": "J66-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 6
+      },
+      {
+        "variant_id": "J66-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 7
+      }
+    ],
+    "popularity_30d": 190,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J67",
+    "currency": "USD",
+    "price_cents": 21700,
+    "variants": [
+      {
+        "variant_id": "J67-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J67-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J67-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J67-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J67-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J67-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 227,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J68",
+    "currency": "USD",
+    "price_cents": 14700,
+    "variants": [
+      {
+        "variant_id": "J68-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J68-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J68-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J68-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J68-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J68-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 264,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J69",
+    "currency": "USD",
+    "price_cents": 13700,
+    "variants": [
+      {
+        "variant_id": "J69-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J69-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J69-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J69-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J69-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J69-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 301,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J70",
+    "currency": "USD",
+    "price_cents": 18700,
+    "variants": [
+      {
+        "variant_id": "J70-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J70-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J70-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J70-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J70-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J70-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 338,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J71",
+    "currency": "USD",
+    "price_cents": 17700,
+    "variants": [
+      {
+        "variant_id": "J71-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J71-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J71-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J71-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J71-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J71-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 375,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J72",
+    "currency": "USD",
+    "price_cents": 15700,
+    "variants": [
+      {
+        "variant_id": "J72-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J72-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J72-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J72-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J72-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J72-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 412,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J73",
+    "currency": "USD",
+    "price_cents": 16400,
+    "variants": [
+      {
+        "variant_id": "J73-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J73-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J73-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J73-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J73-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J73-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 468,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J74",
+    "currency": "USD",
+    "price_cents": 17400,
+    "variants": [
+      {
+        "variant_id": "J74-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J74-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J74-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J74-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J74-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J74-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 505,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J75",
+    "currency": "USD",
+    "price_cents": 20400,
+    "variants": [
+      {
+        "variant_id": "J75-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J75-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J75-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "J75-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J75-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J75-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 542,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J76",
+    "currency": "USD",
+    "price_cents": 12400,
+    "variants": [
+      {
+        "variant_id": "J76-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J76-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J76-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J76-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J76-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J76-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 579,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J77",
+    "currency": "USD",
+    "price_cents": 14400,
+    "variants": [
+      {
+        "variant_id": "J77-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "variant_id": "J77-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 17
+      },
+      {
+        "variant_id": "J77-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 3
+      },
+      {
+        "variant_id": "J77-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 4
+      }
+    ],
+    "popularity_30d": 616,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J78",
+    "currency": "USD",
+    "price_cents": 13400,
+    "variants": [
+      {
+        "variant_id": "J78-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J78-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J78-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "J78-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J78-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J78-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 653,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J79",
+    "currency": "USD",
+    "price_cents": 22400,
+    "variants": [
+      {
+        "variant_id": "J79-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J79-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J79-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J79-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J79-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J79-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 690,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J80",
+    "currency": "USD",
+    "price_cents": 15400,
+    "variants": [
+      {
+        "variant_id": "J80-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J80-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J80-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J80-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J80-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J80-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 727,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J81",
+    "currency": "USD",
+    "price_cents": 14400,
+    "variants": [
+      {
+        "variant_id": "J81-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J81-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J81-Plum-XL",
+        "color": "Plum",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J81-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J81-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J81-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 764,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J82",
+    "currency": "USD",
+    "price_cents": 19400,
+    "variants": [
+      {
+        "variant_id": "J82-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J82-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J82-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J82-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J82-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J82-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 21,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J83",
+    "currency": "USD",
+    "price_cents": 18400,
+    "variants": [
+      {
+        "variant_id": "J83-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J83-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J83-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J83-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J83-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J83-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 58,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J84",
+    "currency": "USD",
+    "price_cents": 16400,
+    "variants": [
+      {
+        "variant_id": "J84-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J84-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J84-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J84-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J84-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J84-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 95,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J85",
+    "currency": "USD",
+    "price_cents": 17100,
+    "variants": [
+      {
+        "variant_id": "J85-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J85-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J85-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J85-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J85-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J85-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 151,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J86",
+    "currency": "USD",
+    "price_cents": 18100,
+    "variants": [
+      {
+        "variant_id": "J86-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J86-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J86-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J86-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J86-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J86-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 188,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J87",
+    "currency": "USD",
+    "price_cents": 21100,
+    "variants": [
+      {
+        "variant_id": "J87-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J87-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J87-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J87-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J87-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J87-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 225,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J88",
+    "currency": "USD",
+    "price_cents": 13100,
+    "variants": [
+      {
+        "variant_id": "J88-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 13
+      },
+      {
+        "variant_id": "J88-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 14
+      },
+      {
+        "variant_id": "J88-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 18
+      },
+      {
+        "variant_id": "J88-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 1
+      }
+    ],
+    "popularity_30d": 262,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J89",
+    "currency": "USD",
+    "price_cents": 15100,
+    "variants": [
+      {
+        "variant_id": "J89-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J89-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J89-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J89-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J89-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J89-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 299,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J90",
+    "currency": "USD",
+    "price_cents": 14100,
+    "variants": [
+      {
+        "variant_id": "J90-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J90-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J90-Rust-XL",
+        "color": "Rust",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J90-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J90-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J90-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 336,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J91",
+    "currency": "USD",
+    "price_cents": 23100,
+    "variants": [
+      {
+        "variant_id": "J91-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J91-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J91-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J91-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J91-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J91-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 373,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J92",
+    "currency": "USD",
+    "price_cents": 16100,
+    "variants": [
+      {
+        "variant_id": "J92-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J92-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J92-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J92-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J92-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J92-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 410,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J93",
+    "currency": "USD",
+    "price_cents": 15100,
+    "variants": [
+      {
+        "variant_id": "J93-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J93-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J93-Red-XL",
+        "color": "Red",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J93-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J93-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J93-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 447,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J94",
+    "currency": "USD",
+    "price_cents": 20100,
+    "variants": [
+      {
+        "variant_id": "J94-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J94-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J94-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J94-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J94-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J94-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 484,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J95",
+    "currency": "USD",
+    "price_cents": 19100,
+    "variants": [
+      {
+        "variant_id": "J95-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J95-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J95-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J95-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J95-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J95-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 521,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J96",
+    "currency": "USD",
+    "price_cents": 17100,
+    "variants": [
+      {
+        "variant_id": "J96-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J96-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J96-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "J96-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J96-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J96-Moss-XL",
+        "color": "Moss",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 558,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J97",
+    "currency": "USD",
+    "price_cents": 17800,
+    "variants": [
+      {
+        "variant_id": "J97-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J97-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J97-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J97-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J97-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J97-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 614,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J98",
+    "currency": "USD",
+    "price_cents": 18800,
+    "variants": [
+      {
+        "variant_id": "J98-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J98-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J98-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J98-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J98-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J98-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 651,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J99",
+    "currency": "USD",
+    "price_cents": 21800,
+    "variants": [
+      {
+        "variant_id": "J99-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 10
+      },
+      {
+        "variant_id": "J99-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 11
+      },
+      {
+        "variant_id": "J99-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 15
+      },
+      {
+        "variant_id": "J99-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 16
+      }
+    ],
+    "popularity_30d": 688,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J100",
+    "currency": "USD",
+    "price_cents": 13800,
+    "variants": [
+      {
+        "variant_id": "J100-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J100-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J100-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J100-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J100-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J100-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 725,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J101",
+    "currency": "USD",
+    "price_cents": 15800,
+    "variants": [
+      {
+        "variant_id": "J101-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J101-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J101-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J101-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J101-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J101-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 762,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J102",
+    "currency": "USD",
+    "price_cents": 14800,
+    "variants": [
+      {
+        "variant_id": "J102-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J102-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J102-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J102-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J102-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J102-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 19,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J103",
+    "currency": "USD",
+    "price_cents": 23800,
+    "variants": [
+      {
+        "variant_id": "J103-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J103-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J103-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J103-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J103-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J103-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 56,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J104",
+    "currency": "USD",
+    "price_cents": 16800,
+    "variants": [
+      {
+        "variant_id": "J104-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J104-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J104-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J104-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J104-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J104-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 93,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J105",
+    "currency": "USD",
+    "price_cents": 15800,
+    "variants": [
+      {
+        "variant_id": "J105-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J105-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "J105-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J105-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "J105-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J105-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 130,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J106",
+    "currency": "USD",
+    "price_cents": 20800,
+    "variants": [
+      {
+        "variant_id": "J106-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J106-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J106-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J106-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J106-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J106-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 167,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J107",
+    "currency": "USD",
+    "price_cents": 19800,
+    "variants": [
+      {
+        "variant_id": "J107-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J107-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J107-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J107-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J107-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J107-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 204,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J108",
+    "currency": "USD",
+    "price_cents": 17800,
+    "variants": [
+      {
+        "variant_id": "J108-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J108-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J108-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J108-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J108-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J108-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 241,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J109",
+    "currency": "USD",
+    "price_cents": 18500,
+    "variants": [
+      {
+        "variant_id": "J109-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J109-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J109-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J109-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J109-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J109-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 297,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J110",
+    "currency": "USD",
+    "price_cents": 19500,
+    "variants": [
+      {
+        "variant_id": "J110-Stone-XS",
+        "color": "Stone",
+        "size": "XS",
+        "stock": 7
+      },
+      {
+        "variant_id": "J110-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "variant_id": "J110-Moss-XS",
+        "color": "Moss",
+        "size": "XS",
+        "stock": 12
+      },
+      {
+        "variant_id": "J110-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 334,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J111",
+    "currency": "USD",
+    "price_cents": 22500,
+    "variants": [
+      {
+        "variant_id": "J111-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J111-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J111-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "J111-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J111-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "J111-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 371,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J112",
+    "currency": "USD",
+    "price_cents": 14500,
+    "variants": [
+      {
+        "variant_id": "J112-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J112-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "J112-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J112-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "J112-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J112-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 408,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J113",
+    "currency": "USD",
+    "price_cents": 16500,
+    "variants": [
+      {
+        "variant_id": "J113-Olive-S",
+        "color": "Olive",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "J113-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J113-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J113-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J113-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J113-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 445,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J114",
+    "currency": "USD",
+    "price_cents": 15500,
+    "variants": [
+      {
+        "variant_id": "J114-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J114-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J114-Plum-XL",
+        "color": "Plum",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J114-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J114-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J114-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 482,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J115",
+    "currency": "USD",
+    "price_cents": 24500,
+    "variants": [
+      {
+        "variant_id": "J115-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "J115-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "J115-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "J115-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "J115-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "J115-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 519,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J116",
+    "currency": "USD",
+    "price_cents": 17500,
+    "variants": [
+      {
+        "variant_id": "J116-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "J116-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "J116-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "J116-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "J116-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "J116-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 556,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J117",
+    "currency": "USD",
+    "price_cents": 16500,
+    "variants": [
+      {
+        "variant_id": "J117-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J117-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J117-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "J117-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J117-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "J117-Slate-XL",
+        "color": "Slate",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 593,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J118",
+    "currency": "USD",
+    "price_cents": 21500,
+    "variants": [
+      {
+        "variant_id": "J118-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "J118-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "J118-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "J118-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J118-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J118-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 630,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J119",
+    "currency": "USD",
+    "price_cents": 20500,
+    "variants": [
+      {
+        "variant_id": "J119-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "J119-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "J119-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "J119-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "J119-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "J119-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 667,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "J120",
+    "currency": "USD",
+    "price_cents": 18500,
+    "variants": [
+      {
+        "variant_id": "J120-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "J120-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "J120-Rust-XL",
+        "color": "Rust",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "J120-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "J120-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "J120-Black-XL",
+        "color": "Black",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 704,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M05",
+    "currency": "USD",
+    "price_cents": 5900,
+    "variants": [
+      {
+        "variant_id": "M05-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "M05-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "M05-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M05-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "M05-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M05-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 197,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M06",
+    "currency": "USD",
+    "price_cents": 4900,
+    "variants": [
+      {
+        "variant_id": "M06-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M06-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M06-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "M06-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M06-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "M06-Moss-XL",
+        "color": "Moss",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 234,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M07",
+    "currency": "USD",
+    "price_cents": 6900,
+    "variants": [
+      {
+        "variant_id": "M07-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M07-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "M07-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "M07-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "M07-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "M07-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 271,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M08",
+    "currency": "USD",
+    "price_cents": 5500,
+    "variants": [
+      {
+        "variant_id": "M08-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "M08-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "M08-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "M08-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "M08-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "M08-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 308,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M09",
+    "currency": "USD",
+    "price_cents": 6600,
+    "variants": [
+      {
+        "variant_id": "M09-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "M09-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "M09-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "M09-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "M09-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "M09-Moss-XL",
+        "color": "Moss",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 364,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M10",
+    "currency": "USD",
+    "price_cents": 5600,
+    "variants": [
+      {
+        "variant_id": "M10-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "M10-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "M10-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "M10-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "M10-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M10-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 401,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M11",
+    "currency": "USD",
+    "price_cents": 7600,
+    "variants": [
+      {
+        "variant_id": "M11-Rust-XS",
+        "color": "Rust",
+        "size": "XS",
+        "stock": 16
+      },
+      {
+        "variant_id": "M11-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 17
+      },
+      {
+        "variant_id": "M11-Black-XS",
+        "color": "Black",
+        "size": "XS",
+        "stock": 3
+      },
+      {
+        "variant_id": "M11-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      }
+    ],
+    "popularity_30d": 438,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M12",
+    "currency": "USD",
+    "price_cents": 6200,
+    "variants": [
+      {
+        "variant_id": "M12-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M12-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "M12-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "M12-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "M12-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M12-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 475,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M13",
+    "currency": "USD",
+    "price_cents": 7300,
+    "variants": [
+      {
+        "variant_id": "M13-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M13-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M13-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M13-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M13-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M13-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 531,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M14",
+    "currency": "USD",
+    "price_cents": 6300,
+    "variants": [
+      {
+        "variant_id": "M14-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M14-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "M14-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "M14-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "M14-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "M14-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 568,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M15",
+    "currency": "USD",
+    "price_cents": 8300,
+    "variants": [
+      {
+        "variant_id": "M15-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "M15-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "M15-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "M15-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "M15-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "M15-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 605,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M16",
+    "currency": "USD",
+    "price_cents": 6900,
+    "variants": [
+      {
+        "variant_id": "M16-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "M16-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "M16-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "M16-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "M16-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M16-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 642,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M17",
+    "currency": "USD",
+    "price_cents": 8000,
+    "variants": [
+      {
+        "variant_id": "M17-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "M17-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "M17-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "M17-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "M17-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "M17-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 698,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M18",
+    "currency": "USD",
+    "price_cents": 7000,
+    "variants": [
+      {
+        "variant_id": "M18-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M18-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "M18-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "M18-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "M18-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "M18-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 735,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M19",
+    "currency": "USD",
+    "price_cents": 9000,
+    "variants": [
+      {
+        "variant_id": "M19-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "M19-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "M19-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M19-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "M19-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M19-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 772,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M20",
+    "currency": "USD",
+    "price_cents": 7600,
+    "variants": [
+      {
+        "variant_id": "M20-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "M20-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M20-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "M20-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M20-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "M20-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 29,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M21",
+    "currency": "USD",
+    "price_cents": 8700,
+    "variants": [
+      {
+        "variant_id": "M21-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M21-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "M21-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "M21-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "M21-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "M21-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 85,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M22",
+    "currency": "USD",
+    "price_cents": 7700,
+    "variants": [
+      {
+        "variant_id": "M22-Plum-XS",
+        "color": "Plum",
+        "size": "XS",
+        "stock": 13
+      },
+      {
+        "variant_id": "M22-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 14
+      },
+      {
+        "variant_id": "M22-Slate-XS",
+        "color": "Slate",
+        "size": "XS",
+        "stock": 18
+      },
+      {
+        "variant_id": "M22-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 1
+      }
+    ],
+    "popularity_30d": 122,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M23",
+    "currency": "USD",
+    "price_cents": 9700,
+    "variants": [
+      {
+        "variant_id": "M23-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "M23-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "M23-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "M23-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "M23-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "M23-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 159,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M24",
+    "currency": "USD",
+    "price_cents": 8300,
+    "variants": [
+      {
+        "variant_id": "M24-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M24-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "M24-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "M24-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "M24-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "M24-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 196,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M25",
+    "currency": "USD",
+    "price_cents": 9400,
+    "variants": [
+      {
+        "variant_id": "M25-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "M25-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "M25-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "M25-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "M25-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "M25-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 252,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M26",
+    "currency": "USD",
+    "price_cents": 8400,
+    "variants": [
+      {
+        "variant_id": "M26-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M26-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M26-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M26-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M26-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M26-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 289,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M27",
+    "currency": "USD",
+    "price_cents": 10400,
+    "variants": [
+      {
+        "variant_id": "M27-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "M27-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M27-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "M27-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M27-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "M27-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 326,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M28",
+    "currency": "USD",
+    "price_cents": 9000,
+    "variants": [
+      {
+        "variant_id": "M28-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M28-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "M28-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "M28-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "M28-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M28-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 363,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M29",
+    "currency": "USD",
+    "price_cents": 10100,
+    "variants": [
+      {
+        "variant_id": "M29-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "M29-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "M29-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "M29-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "M29-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "M29-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 419,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M30",
+    "currency": "USD",
+    "price_cents": 9100,
+    "variants": [
+      {
+        "variant_id": "M30-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M30-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "M30-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "M30-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "M30-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "M30-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 456,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M31",
+    "currency": "USD",
+    "price_cents": 11100,
+    "variants": [
+      {
+        "variant_id": "M31-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "M31-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "M31-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "M31-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "M31-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "M31-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 493,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M32",
+    "currency": "USD",
+    "price_cents": 9700,
+    "variants": [
+      {
+        "variant_id": "M32-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "M32-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "M32-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "M32-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "M32-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "M32-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 530,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M33",
+    "currency": "USD",
+    "price_cents": 10800,
+    "variants": [
+      {
+        "variant_id": "M33-Teal-XS",
+        "color": "Teal",
+        "size": "XS",
+        "stock": 10
+      },
+      {
+        "variant_id": "M33-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 11
+      },
+      {
+        "variant_id": "M33-Sand-XS",
+        "color": "Sand",
+        "size": "XS",
+        "stock": 15
+      },
+      {
+        "variant_id": "M33-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 586,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M34",
+    "currency": "USD",
+    "price_cents": 9800,
+    "variants": [
+      {
+        "variant_id": "M34-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "M34-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M34-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "M34-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M34-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M34-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 623,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M35",
+    "currency": "USD",
+    "price_cents": 11800,
+    "variants": [
+      {
+        "variant_id": "M35-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "M35-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "M35-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "M35-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "M35-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "M35-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 660,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M36",
+    "currency": "USD",
+    "price_cents": 10400,
+    "variants": [
+      {
+        "variant_id": "M36-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "M36-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "M36-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "M36-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "M36-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "M36-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 697,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M37",
+    "currency": "USD",
+    "price_cents": 11500,
+    "variants": [
+      {
+        "variant_id": "M37-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "M37-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "M37-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "M37-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "M37-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "M37-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 753,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M38",
+    "currency": "USD",
+    "price_cents": 10500,
+    "variants": [
+      {
+        "variant_id": "M38-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "M38-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "M38-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "M38-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "M38-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "M38-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 790,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M39",
+    "currency": "USD",
+    "price_cents": 12500,
+    "variants": [
+      {
+        "variant_id": "M39-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M39-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M39-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "M39-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M39-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M39-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 47,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "M40",
+    "currency": "USD",
+    "price_cents": 11100,
+    "variants": [
+      {
+        "variant_id": "M40-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "M40-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "M40-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "M40-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "M40-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "M40-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 84,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P05",
+    "currency": "USD",
+    "price_cents": 7900,
+    "variants": [
+      {
+        "variant_id": "P05-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "P05-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "P05-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P05-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "P05-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P05-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 197,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P06",
+    "currency": "USD",
+    "price_cents": 5900,
+    "variants": [
+      {
+        "variant_id": "P06-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P06-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P06-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "P06-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P06-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "P06-Moss-XL",
+        "color": "Moss",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 234,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P07",
+    "currency": "USD",
+    "price_cents": 8900,
+    "variants": [
+      {
+        "variant_id": "P07-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P07-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "P07-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "P07-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "P07-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "P07-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 271,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P08",
+    "currency": "USD",
+    "price_cents": 6500,
+    "variants": [
+      {
+        "variant_id": "P08-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "P08-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "P08-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "P08-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "P08-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "P08-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 308,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P09",
+    "currency": "USD",
+    "price_cents": 8600,
+    "variants": [
+      {
+        "variant_id": "P09-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "P09-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "P09-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "P09-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "P09-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "P09-Moss-XL",
+        "color": "Moss",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 364,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P10",
+    "currency": "USD",
+    "price_cents": 6600,
+    "variants": [
+      {
+        "variant_id": "P10-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "P10-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "P10-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "P10-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "P10-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P10-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 401,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P11",
+    "currency": "USD",
+    "price_cents": 9600,
+    "variants": [
+      {
+        "variant_id": "P11-Rust-XS",
+        "color": "Rust",
+        "size": "XS",
+        "stock": 16
+      },
+      {
+        "variant_id": "P11-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 17
+      },
+      {
+        "variant_id": "P11-Black-XS",
+        "color": "Black",
+        "size": "XS",
+        "stock": 3
+      },
+      {
+        "variant_id": "P11-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      }
+    ],
+    "popularity_30d": 438,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P12",
+    "currency": "USD",
+    "price_cents": 7200,
+    "variants": [
+      {
+        "variant_id": "P12-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P12-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "P12-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "P12-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "P12-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P12-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 475,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P13",
+    "currency": "USD",
+    "price_cents": 9300,
+    "variants": [
+      {
+        "variant_id": "P13-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P13-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P13-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P13-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P13-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P13-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 531,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P14",
+    "currency": "USD",
+    "price_cents": 7300,
+    "variants": [
+      {
+        "variant_id": "P14-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P14-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "P14-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "P14-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "P14-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "P14-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 568,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P15",
+    "currency": "USD",
+    "price_cents": 10300,
+    "variants": [
+      {
+        "variant_id": "P15-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "P15-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "P15-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "P15-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "P15-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "P15-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 605,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P16",
+    "currency": "USD",
+    "price_cents": 7900,
+    "variants": [
+      {
+        "variant_id": "P16-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "P16-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "P16-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "P16-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "P16-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P16-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 642,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P17",
+    "currency": "USD",
+    "price_cents": 10000,
+    "variants": [
+      {
+        "variant_id": "P17-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "P17-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "P17-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "P17-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "P17-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "P17-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 698,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P18",
+    "currency": "USD",
+    "price_cents": 8000,
+    "variants": [
+      {
+        "variant_id": "P18-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P18-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "P18-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "P18-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "P18-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "P18-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 735,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P19",
+    "currency": "USD",
+    "price_cents": 11000,
+    "variants": [
+      {
+        "variant_id": "P19-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "P19-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "P19-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P19-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "P19-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P19-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 772,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P20",
+    "currency": "USD",
+    "price_cents": 8600,
+    "variants": [
+      {
+        "variant_id": "P20-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "P20-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P20-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "P20-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P20-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "P20-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 29,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P21",
+    "currency": "USD",
+    "price_cents": 10700,
+    "variants": [
+      {
+        "variant_id": "P21-Olive-M",
+        "color": "Olive",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P21-Olive-L",
+        "color": "Olive",
+        "size": "L",
+        "stock": 11
+      },
+      {
+        "variant_id": "P21-Olive-XL",
+        "color": "Olive",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "P21-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 15
+      },
+      {
+        "variant_id": "P21-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "P21-Stone-XL",
+        "color": "Stone",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 85,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P22",
+    "currency": "USD",
+    "price_cents": 8700,
+    "variants": [
+      {
+        "variant_id": "P22-Plum-XS",
+        "color": "Plum",
+        "size": "XS",
+        "stock": 13
+      },
+      {
+        "variant_id": "P22-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 14
+      },
+      {
+        "variant_id": "P22-Slate-XS",
+        "color": "Slate",
+        "size": "XS",
+        "stock": 18
+      },
+      {
+        "variant_id": "P22-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 1
+      }
+    ],
+    "popularity_30d": 122,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P23",
+    "currency": "USD",
+    "price_cents": 11700,
+    "variants": [
+      {
+        "variant_id": "P23-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "P23-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "P23-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "P23-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "P23-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "P23-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 159,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P24",
+    "currency": "USD",
+    "price_cents": 9300,
+    "variants": [
+      {
+        "variant_id": "P24-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P24-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "P24-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "P24-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "P24-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "P24-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 196,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P25",
+    "currency": "USD",
+    "price_cents": 11400,
+    "variants": [
+      {
+        "variant_id": "P25-Plum-S",
+        "color": "Plum",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "P25-Plum-M",
+        "color": "Plum",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "P25-Plum-L",
+        "color": "Plum",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "P25-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "P25-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "P25-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 252,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P26",
+    "currency": "USD",
+    "price_cents": 9400,
+    "variants": [
+      {
+        "variant_id": "P26-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P26-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P26-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P26-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P26-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P26-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 289,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P27",
+    "currency": "USD",
+    "price_cents": 12400,
+    "variants": [
+      {
+        "variant_id": "P27-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "P27-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P27-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 12
+      },
+      {
+        "variant_id": "P27-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P27-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 16
+      },
+      {
+        "variant_id": "P27-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 17
+      }
+    ],
+    "popularity_30d": 326,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P28",
+    "currency": "USD",
+    "price_cents": 10000,
+    "variants": [
+      {
+        "variant_id": "P28-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P28-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "P28-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "P28-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "P28-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P28-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 363,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P29",
+    "currency": "USD",
+    "price_cents": 12100,
+    "variants": [
+      {
+        "variant_id": "P29-Red-S",
+        "color": "Red",
+        "size": "S",
+        "stock": 16
+      },
+      {
+        "variant_id": "P29-Red-M",
+        "color": "Red",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "P29-Red-L",
+        "color": "Red",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "P29-Navy-S",
+        "color": "Navy",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "P29-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "P29-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 419,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P30",
+    "currency": "USD",
+    "price_cents": 10100,
+    "variants": [
+      {
+        "variant_id": "P30-Teal-M",
+        "color": "Teal",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P30-Teal-L",
+        "color": "Teal",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "P30-Teal-XL",
+        "color": "Teal",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "P30-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "P30-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "P30-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 456,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P31",
+    "currency": "USD",
+    "price_cents": 13100,
+    "variants": [
+      {
+        "variant_id": "P31-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "P31-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "P31-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "P31-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "P31-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "P31-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 493,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P32",
+    "currency": "USD",
+    "price_cents": 10700,
+    "variants": [
+      {
+        "variant_id": "P32-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "P32-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "P32-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "P32-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "P32-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "P32-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 530,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P33",
+    "currency": "USD",
+    "price_cents": 12800,
+    "variants": [
+      {
+        "variant_id": "P33-Teal-XS",
+        "color": "Teal",
+        "size": "XS",
+        "stock": 10
+      },
+      {
+        "variant_id": "P33-Teal-S",
+        "color": "Teal",
+        "size": "S",
+        "stock": 11
+      },
+      {
+        "variant_id": "P33-Sand-XS",
+        "color": "Sand",
+        "size": "XS",
+        "stock": 15
+      },
+      {
+        "variant_id": "P33-Sand-S",
+        "color": "Sand",
+        "size": "S",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 586,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P34",
+    "currency": "USD",
+    "price_cents": 10800,
+    "variants": [
+      {
+        "variant_id": "P34-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "P34-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P34-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 15
+      },
+      {
+        "variant_id": "P34-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P34-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P34-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 623,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P35",
+    "currency": "USD",
+    "price_cents": 13800,
+    "variants": [
+      {
+        "variant_id": "P35-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "variant_id": "P35-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 17
+      },
+      {
+        "variant_id": "P35-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 18
+      },
+      {
+        "variant_id": "P35-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "variant_id": "P35-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "variant_id": "P35-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 5
+      }
+    ],
+    "popularity_30d": 660,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P36",
+    "currency": "USD",
+    "price_cents": 11400,
+    "variants": [
+      {
+        "variant_id": "P36-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variant_id": "P36-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "variant_id": "P36-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "variant_id": "P36-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "variant_id": "P36-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "variant_id": "P36-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 8
+      }
+    ],
+    "popularity_30d": 697,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P37",
+    "currency": "USD",
+    "price_cents": 13500,
+    "variants": [
+      {
+        "variant_id": "P37-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "variant_id": "P37-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "variant_id": "P37-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "variant_id": "P37-Slate-S",
+        "color": "Slate",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "variant_id": "P37-Slate-M",
+        "color": "Slate",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "variant_id": "P37-Slate-L",
+        "color": "Slate",
+        "size": "L",
+        "stock": 11
+      }
+    ],
+    "popularity_30d": 753,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P38",
+    "currency": "USD",
+    "price_cents": 11500,
+    "variants": [
+      {
+        "variant_id": "P38-Stone-S",
+        "color": "Stone",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "variant_id": "P38-Stone-M",
+        "color": "Stone",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "variant_id": "P38-Stone-L",
+        "color": "Stone",
+        "size": "L",
+        "stock": 9
+      },
+      {
+        "variant_id": "P38-Moss-S",
+        "color": "Moss",
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variant_id": "P38-Moss-M",
+        "color": "Moss",
+        "size": "M",
+        "stock": 13
+      },
+      {
+        "variant_id": "P38-Moss-L",
+        "color": "Moss",
+        "size": "L",
+        "stock": 14
+      }
+    ],
+    "popularity_30d": 790,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P39",
+    "currency": "USD",
+    "price_cents": 14500,
+    "variants": [
+      {
+        "variant_id": "P39-Navy-M",
+        "color": "Navy",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P39-Navy-L",
+        "color": "Navy",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P39-Navy-XL",
+        "color": "Navy",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "variant_id": "P39-Sand-M",
+        "color": "Sand",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P39-Sand-L",
+        "color": "Sand",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P39-Sand-XL",
+        "color": "Sand",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 47,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "P40",
+    "currency": "USD",
+    "price_cents": 12100,
+    "variants": [
+      {
+        "variant_id": "P40-Rust-S",
+        "color": "Rust",
+        "size": "S",
+        "stock": 13
+      },
+      {
+        "variant_id": "P40-Rust-M",
+        "color": "Rust",
+        "size": "M",
+        "stock": 14
+      },
+      {
+        "variant_id": "P40-Rust-L",
+        "color": "Rust",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "variant_id": "P40-Black-S",
+        "color": "Black",
+        "size": "S",
+        "stock": 18
+      },
+      {
+        "variant_id": "P40-Black-M",
+        "color": "Black",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "variant_id": "P40-Black-L",
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      }
+    ],
+    "popularity_30d": 84,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A05",
+    "currency": "USD",
+    "price_cents": 2500,
+    "variants": [
+      {
+        "variant_id": "A05-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 16
+      },
+      {
+        "variant_id": "A05-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 197,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A06",
+    "currency": "USD",
+    "price_cents": 2900,
+    "variants": [
+      {
+        "variant_id": "A06-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 1
+      },
+      {
+        "variant_id": "A06-Moss-One-Size",
+        "color": "Moss",
+        "size": "One Size",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 234,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A07",
+    "currency": "USD",
+    "price_cents": 3200,
+    "variants": [
+      {
+        "variant_id": "A07-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A07-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 9
+      }
+    ],
+    "popularity_30d": 271,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A08",
+    "currency": "USD",
+    "price_cents": 3500,
+    "variants": [
+      {
+        "variant_id": "A08-Rust-One-Size",
+        "color": "Rust",
+        "size": "One Size",
+        "stock": 7
+      },
+      {
+        "variant_id": "A08-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 12
+      }
+    ],
+    "popularity_30d": 308,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A09",
+    "currency": "USD",
+    "price_cents": 2800,
+    "variants": [
+      {
+        "variant_id": "A09-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 10
+      },
+      {
+        "variant_id": "A09-Moss-One-Size",
+        "color": "Moss",
+        "size": "One Size",
+        "stock": 15
+      }
+    ],
+    "popularity_30d": 364,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A10",
+    "currency": "USD",
+    "price_cents": 3200,
+    "variants": [
+      {
+        "variant_id": "A10-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 13
+      },
+      {
+        "variant_id": "A10-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 18
+      }
+    ],
+    "popularity_30d": 401,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A11",
+    "currency": "USD",
+    "price_cents": 3500,
+    "variants": [
+      {
+        "variant_id": "A11-Rust-One-Size",
+        "color": "Rust",
+        "size": "One Size",
+        "stock": 16
+      },
+      {
+        "variant_id": "A11-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 438,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A12",
+    "currency": "USD",
+    "price_cents": 3800,
+    "variants": [
+      {
+        "variant_id": "A12-Olive-One-Size",
+        "color": "Olive",
+        "size": "One Size",
+        "stock": 1
+      },
+      {
+        "variant_id": "A12-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 6
+      }
+    ],
+    "popularity_30d": 475,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A13",
+    "currency": "USD",
+    "price_cents": 3100,
+    "variants": [
+      {
+        "variant_id": "A13-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A13-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 531,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A14",
+    "currency": "USD",
+    "price_cents": 3500,
+    "variants": [
+      {
+        "variant_id": "A14-Rust-One-Size",
+        "color": "Rust",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A14-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 12
+      }
+    ],
+    "popularity_30d": 568,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A15",
+    "currency": "USD",
+    "price_cents": 3800,
+    "variants": [
+      {
+        "variant_id": "A15-Olive-One-Size",
+        "color": "Olive",
+        "size": "One Size",
+        "stock": 10
+      },
+      {
+        "variant_id": "A15-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 15
+      }
+    ],
+    "popularity_30d": 605,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A16",
+    "currency": "USD",
+    "price_cents": 4100,
+    "variants": [
+      {
+        "variant_id": "A16-Plum-One-Size",
+        "color": "Plum",
+        "size": "One Size",
+        "stock": 13
+      },
+      {
+        "variant_id": "A16-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 18
+      }
+    ],
+    "popularity_30d": 642,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A17",
+    "currency": "USD",
+    "price_cents": 3400,
+    "variants": [
+      {
+        "variant_id": "A17-Rust-One-Size",
+        "color": "Rust",
+        "size": "One Size",
+        "stock": 16
+      },
+      {
+        "variant_id": "A17-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 698,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A18",
+    "currency": "USD",
+    "price_cents": 3800,
+    "variants": [
+      {
+        "variant_id": "A18-Olive-One-Size",
+        "color": "Olive",
+        "size": "One Size",
+        "stock": 1
+      },
+      {
+        "variant_id": "A18-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 6
+      }
+    ],
+    "popularity_30d": 735,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A19",
+    "currency": "USD",
+    "price_cents": 4100,
+    "variants": [
+      {
+        "variant_id": "A19-Plum-One-Size",
+        "color": "Plum",
+        "size": "One Size",
+        "stock": 4
+      },
+      {
+        "variant_id": "A19-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 9
+      }
+    ],
+    "popularity_30d": 772,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A20",
+    "currency": "USD",
+    "price_cents": 4400,
+    "variants": [
+      {
+        "variant_id": "A20-Red-One-Size",
+        "color": "Red",
+        "size": "One Size",
+        "stock": 7
+      },
+      {
+        "variant_id": "A20-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 29,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A21",
+    "currency": "USD",
+    "price_cents": 3700,
+    "variants": [
+      {
+        "variant_id": "A21-Olive-One-Size",
+        "color": "Olive",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A21-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 15
+      }
+    ],
+    "popularity_30d": 85,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A22",
+    "currency": "USD",
+    "price_cents": 4100,
+    "variants": [
+      {
+        "variant_id": "A22-Plum-One-Size",
+        "color": "Plum",
+        "size": "One Size",
+        "stock": 13
+      },
+      {
+        "variant_id": "A22-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 18
+      }
+    ],
+    "popularity_30d": 122,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A23",
+    "currency": "USD",
+    "price_cents": 4400,
+    "variants": [
+      {
+        "variant_id": "A23-Red-One-Size",
+        "color": "Red",
+        "size": "One Size",
+        "stock": 16
+      },
+      {
+        "variant_id": "A23-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 159,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A24",
+    "currency": "USD",
+    "price_cents": 4700,
+    "variants": [
+      {
+        "variant_id": "A24-Teal-One-Size",
+        "color": "Teal",
+        "size": "One Size",
+        "stock": 1
+      },
+      {
+        "variant_id": "A24-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 6
+      }
+    ],
+    "popularity_30d": 196,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A25",
+    "currency": "USD",
+    "price_cents": 4000,
+    "variants": [
+      {
+        "variant_id": "A25-Plum-One-Size",
+        "color": "Plum",
+        "size": "One Size",
+        "stock": 4
+      },
+      {
+        "variant_id": "A25-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 9
+      }
+    ],
+    "popularity_30d": 252,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A26",
+    "currency": "USD",
+    "price_cents": 4400,
+    "variants": [
+      {
+        "variant_id": "A26-Red-One-Size",
+        "color": "Red",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A26-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 289,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A27",
+    "currency": "USD",
+    "price_cents": 4700,
+    "variants": [
+      {
+        "variant_id": "A27-Teal-One-Size",
+        "color": "Teal",
+        "size": "One Size",
+        "stock": 10
+      },
+      {
+        "variant_id": "A27-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 326,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A28",
+    "currency": "USD",
+    "price_cents": 5000,
+    "variants": [
+      {
+        "variant_id": "A28-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A28-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 18
+      }
+    ],
+    "popularity_30d": 363,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A29",
+    "currency": "USD",
+    "price_cents": 4300,
+    "variants": [
+      {
+        "variant_id": "A29-Red-One-Size",
+        "color": "Red",
+        "size": "One Size",
+        "stock": 16
+      },
+      {
+        "variant_id": "A29-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 419,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A30",
+    "currency": "USD",
+    "price_cents": 4700,
+    "variants": [
+      {
+        "variant_id": "A30-Teal-One-Size",
+        "color": "Teal",
+        "size": "One Size",
+        "stock": 1
+      },
+      {
+        "variant_id": "A30-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 6
+      }
+    ],
+    "popularity_30d": 456,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A31",
+    "currency": "USD",
+    "price_cents": 5000,
+    "variants": [
+      {
+        "variant_id": "A31-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 4
+      },
+      {
+        "variant_id": "A31-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 9
+      }
+    ],
+    "popularity_30d": 493,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A32",
+    "currency": "USD",
+    "price_cents": 5300,
+    "variants": [
+      {
+        "variant_id": "A32-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 7
+      },
+      {
+        "variant_id": "A32-Moss-One-Size",
+        "color": "Moss",
+        "size": "One Size",
+        "stock": 12
+      }
+    ],
+    "popularity_30d": 530,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A33",
+    "currency": "USD",
+    "price_cents": 4600,
+    "variants": [
+      {
+        "variant_id": "A33-Teal-One-Size",
+        "color": "Teal",
+        "size": "One Size",
+        "stock": 10
+      },
+      {
+        "variant_id": "A33-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 15
+      }
+    ],
+    "popularity_30d": 586,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A34",
+    "currency": "USD",
+    "price_cents": 5000,
+    "variants": [
+      {
+        "variant_id": "A34-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 13
+      },
+      {
+        "variant_id": "A34-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 623,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A35",
+    "currency": "USD",
+    "price_cents": 5300,
+    "variants": [
+      {
+        "variant_id": "A35-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A35-Moss-One-Size",
+        "color": "Moss",
+        "size": "One Size",
+        "stock": 3
+      }
+    ],
+    "popularity_30d": 660,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A36",
+    "currency": "USD",
+    "price_cents": 5600,
+    "variants": [
+      {
+        "variant_id": "A36-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 1
+      },
+      {
+        "variant_id": "A36-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 6
+      }
+    ],
+    "popularity_30d": 697,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A37",
+    "currency": "USD",
+    "price_cents": 4900,
+    "variants": [
+      {
+        "variant_id": "A37-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 4
+      },
+      {
+        "variant_id": "A37-Slate-One-Size",
+        "color": "Slate",
+        "size": "One Size",
+        "stock": 9
+      }
+    ],
+    "popularity_30d": 753,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A38",
+    "currency": "USD",
+    "price_cents": 5300,
+    "variants": [
+      {
+        "variant_id": "A38-Stone-One-Size",
+        "color": "Stone",
+        "size": "One Size",
+        "stock": 7
+      },
+      {
+        "variant_id": "A38-Moss-One-Size",
+        "color": "Moss",
+        "size": "One Size",
+        "stock": 12
+      }
+    ],
+    "popularity_30d": 790,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A39",
+    "currency": "USD",
+    "price_cents": 5600,
+    "variants": [
+      {
+        "variant_id": "A39-Navy-One-Size",
+        "color": "Navy",
+        "size": "One Size",
+        "stock": 0
+      },
+      {
+        "variant_id": "A39-Sand-One-Size",
+        "color": "Sand",
+        "size": "One Size",
+        "stock": 0
+      }
+    ],
+    "popularity_30d": 47,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  },
+  {
+    "product_id": "A40",
+    "currency": "USD",
+    "price_cents": 5900,
+    "variants": [
+      {
+        "variant_id": "A40-Rust-One-Size",
+        "color": "Rust",
+        "size": "One Size",
+        "stock": 13
+      },
+      {
+        "variant_id": "A40-Black-One-Size",
+        "color": "Black",
+        "size": "One Size",
+        "stock": 18
+      }
+    ],
+    "popularity_30d": 84,
+    "snapshot_at": "2026-09-21T00:00:00Z"
+  }
+]

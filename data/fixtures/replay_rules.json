@@ -1,0 +1,25 @@
+{
+  "label":"Replay — simulated API outputs. Deterministic phrase fixtures, not model inference.",
+  "rules":[
+    {"phrase":"autumn","kind":"season_suitability","value":"fall"},
+    {"phrase":"fall","kind":"season_suitability","value":"fall"},
+    {"phrase":"spring","kind":"season_suitability","value":"spring"},
+    {"phrase":"summer","kind":"season_suitability","value":"summer"},
+    {"phrase":"winter","kind":"season_suitability","value":"winter"},
+    {"phrase":"hiking","kind":"activities","value":"hiking"},
+    {"phrase":"hikes","kind":"activities","value":"hiking"},
+    {"phrase":"camping","kind":"activities","value":"camping"},
+    {"phrase":"cycling","kind":"activities","value":"cycling"},
+    {"phrase":"travel","kind":"activities","value":"travel"},
+    {"phrase":"commuting","kind":"activities","value":"commuting"},
+    {"phrase":"walking","kind":"activities","value":"walking"},
+    {"phrase":"walks","kind":"activities","value":"walking"},
+    {"phrase":"Lightweight","kind":"benefits","value":"lightweight"},
+    {"phrase":"Warm","kind":"benefits","value":"warmth"},
+    {"phrase":"Helps shed light drizzle.","kind":"benefits","value":"light rain protection"},
+    {"phrase":"Packs into its own pocket.","kind":"use_cases","value":"pocket packability"},
+    {"phrase":"outdoor style","kind":"style","value":"outdoor"},
+    {"phrase":"minimal style","kind":"style","value":"minimal"},
+    {"phrase":"urban style","kind":"style","value":"urban"}
+  ]
+}

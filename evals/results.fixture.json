@@ -1,0 +1,539 @@
+{
+  "created_at": "2026-09-21T15:22:25.029122+00:00",
+  "mode": "fixture",
+  "models": {
+    "openai_agent_model": "gpt-5.6-terra",
+    "openai_enrich_model": "gpt-5.6-terra",
+    "openai_judge_model": "gpt-6-astra",
+    "openai_image_model": "gpt-image-2.5-flare",
+    "openai_embedding_model": "text-embedding-3-small",
+    "openai_moderation_model": "omni-moderation-latest"
+  },
+  "publication_version": "a95b5827-d8cb-4a96-849d-3b33991d35fe",
+  "samples": 36,
+  "median_retrieval_ms": 3.878,
+  "constraint_violations": 0,
+  "eligible_set_count_mismatches": 0,
+  "hit_at_3": {
+    "source_lexical": 1,
+    "enriched_lexical": 1,
+    "hybrid": 1
+  },
+  "human_reviewed_unsupported_claim_count": null,
+  "live_chat_latency_ms": null,
+  "live_image_latency_ms": null,
+  "limitations": [
+    "Fixture results are synthetic replay, not live model quality.",
+    "All strategies share identical hard filters, including approved required-benefit filters.",
+    "hit@3 is binary any-hit against seed-authored relevant IDs, averaged only over nonempty labels.",
+    "Original 24 labels are manual; added product labels use authored recipe benefits, fall-hiking suitability and commerce facts, independently of retrieval output. This is not a human relevance study.",
+    "Behavioral chat, injection and complements coverage is in pytest; this report measures retrieval.",
+    "No human fact-review, cost, live chat or image measurement is implied."
+  ],
+  "cases": [
+    {
+      "case": "fall-rain",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 35,
+      "eligible_count_observed": 35,
+      "retrieval_ms": 5.024
+    },
+    {
+      "case": "fall-rain",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 35,
+      "eligible_count_observed": 35,
+      "retrieval_ms": 4.41
+    },
+    {
+      "case": "fall-rain",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J38",
+        "J49",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 35,
+      "eligible_count_observed": 35,
+      "retrieval_ms": 13.856
+    },
+    {
+      "case": "lightweight",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J03",
+        "J109"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 33,
+      "eligible_count_observed": 33,
+      "retrieval_ms": 4.32
+    },
+    {
+      "case": "lightweight",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J03",
+        "J109"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 33,
+      "eligible_count_observed": 33,
+      "retrieval_ms": 4.312
+    },
+    {
+      "case": "lightweight",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J49",
+        "J03",
+        "J37"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 33,
+      "eligible_count_observed": 33,
+      "retrieval_ms": 4.338
+    },
+    {
+      "case": "warmth",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J05",
+        "J34",
+        "J46"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 12,
+      "eligible_count_observed": 12,
+      "retrieval_ms": 4.116
+    },
+    {
+      "case": "warmth",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J05",
+        "J34",
+        "J46"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 12,
+      "eligible_count_observed": 12,
+      "retrieval_ms": 3.895
+    },
+    {
+      "case": "warmth",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J58",
+        "J05",
+        "J34"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 12,
+      "eligible_count_observed": 12,
+      "retrieval_ms": 3.81
+    },
+    {
+      "case": "strict-budget",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J04"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 1,
+      "eligible_count_observed": 1,
+      "retrieval_ms": 3.227
+    },
+    {
+      "case": "strict-budget",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J04"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 1,
+      "eligible_count_observed": 1,
+      "retrieval_ms": 3.496
+    },
+    {
+      "case": "strict-budget",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J04"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 1,
+      "eligible_count_observed": 1,
+      "retrieval_ms": 3.342
+    },
+    {
+      "case": "unavailable-size",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 3.861
+    },
+    {
+      "case": "unavailable-size",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 3.795
+    },
+    {
+      "case": "unavailable-size",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 3.858
+    },
+    {
+      "case": "no-matches",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 3.251
+    },
+    {
+      "case": "no-matches",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 3.178
+    },
+    {
+      "case": "no-matches",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 3.157
+    },
+    {
+      "case": "changed-constraints",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J02",
+        "J04",
+        "J17"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 4,
+      "eligible_count_observed": 4,
+      "retrieval_ms": 3.205
+    },
+    {
+      "case": "changed-constraints",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J02",
+        "J04",
+        "J17"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 4,
+      "eligible_count_observed": 4,
+      "retrieval_ms": 3.224
+    },
+    {
+      "case": "changed-constraints",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J02",
+        "J04",
+        "J17"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 4,
+      "eligible_count_observed": 4,
+      "retrieval_ms": 3.192
+    },
+    {
+      "case": "ordinal-comparison",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 4.346,
+      "ordinal_order_preserved": true
+    },
+    {
+      "case": "ordinal-comparison",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 13.782,
+      "ordinal_order_preserved": true
+    },
+    {
+      "case": "ordinal-comparison",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J38",
+        "J49",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 4.369,
+      "ordinal_order_preserved": true
+    },
+    {
+      "case": "complements",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 4.234
+    },
+    {
+      "case": "complements",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 4.335
+    },
+    {
+      "case": "complements",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J38",
+        "J49",
+        "J03"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 4.484
+    },
+    {
+      "case": "unknown-specs",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J03"
+      ],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 4.313,
+      "unknown_spec_preserved": true
+    },
+    {
+      "case": "unknown-specs",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J03"
+      ],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 4.365,
+      "unknown_spec_preserved": true
+    },
+    {
+      "case": "unknown-specs",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J80",
+        "J38",
+        "J58"
+      ],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 87,
+      "eligible_count_observed": 87,
+      "retrieval_ms": 4.63,
+      "unknown_spec_preserved": true
+    },
+    {
+      "case": "prompt-injection",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 3.715
+    },
+    {
+      "case": "prompt-injection",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 3.461
+    },
+    {
+      "case": "prompt-injection",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [],
+      "hit_at_3": null,
+      "constraint_violations": 0,
+      "eligible_count_expected": 0,
+      "eligible_count_observed": 0,
+      "retrieval_ms": 12.699
+    },
+    {
+      "case": "second-profile",
+      "strategy": "source_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J04"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 13,
+      "eligible_count_observed": 13,
+      "retrieval_ms": 3.596
+    },
+    {
+      "case": "second-profile",
+      "strategy": "enriched_lexical",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J01",
+        "J02",
+        "J04"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 13,
+      "eligible_count_observed": 13,
+      "retrieval_ms": 3.535
+    },
+    {
+      "case": "second-profile",
+      "strategy": "hybrid",
+      "mode": "fixture-lexical",
+      "ids": [
+        "J14",
+        "J25",
+        "J37"
+      ],
+      "hit_at_3": 1,
+      "constraint_violations": 0,
+      "eligible_count_expected": 13,
+      "eligible_count_observed": 13,
+      "retrieval_ms": 3.509
+    }
+  ]
+}

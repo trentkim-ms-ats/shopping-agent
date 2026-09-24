@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Trailshop: eight slides aligned to the implemented shopping demo. Synthetic customer and commerce data; explicit separation of prototype behavior, business assumptions and production plans.">
+  <title>Trailshop | Evidence-backed shopping — 8 slides</title>
+  <script>
+    (() => {
+      const param = new URLSearchParams(window.location.search).get("scoutTheme");
+      const theme =
+        param || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      document.documentElement.setAttribute("data-theme", theme);
+    })();
+  </script>
+  <style>
+    :root {
+      color-scheme: light;
+      --cp-bg: #f7f4ef;
+      --cp-bg-elevated: #fcfbf8;
+      --cp-surface: #ffffff;
+      --cp-surface-soft: #f5f5f5;
+      --cp-border: #dedede;
+      --cp-border-strong: #919191;
+      --cp-text: #242424;
+      --cp-text-muted: #5c5c5c;
+      --cp-text-soft: #6f6f6f;
+      --cp-accent: #b11f4b;
+      --cp-accent-hover: #9a1a41;
+      --cp-accent-soft: rgba(177, 31, 75, 0.08);
+      --cp-accent-fg: #ffffff;
+      --cp-success: #16a34a;
+      --cp-danger: #dc2626;
+      --cp-warning: #f59e0b;
+      --cp-link: #0078d4;
+      --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.12);
+      --cp-overlay: rgba(255, 255, 255, 0.8);
+      --cp-panel: rgba(255, 255, 255, 0.86);
+      --cp-panel-strong: rgba(255, 255, 255, 0.96);
+      --cp-sheen: rgba(255, 255, 255, 0.55);
+      --cp-highlight: rgba(177, 31, 75, 0.12);
+    }
+    html[data-theme="dark"] {
+      color-scheme: dark;
+      --cp-bg: #3d3b3a;
+      --cp-bg-elevated: #343231;
+      --cp-surface: #292929;
+      --cp-surface-soft: #2e2e2e;
+      --cp-border: #474747;
+      --cp-border-strong: #5f5f5f;
+      --cp-text: #dedede;
+      --cp-text-muted: #919191;
+      --cp-text-soft: #b0b0b0;
+      --cp-accent: #fd8ea1;
+      --cp-accent-hover: #fb7b91;
+      --cp-accent-soft: rgba(253, 142, 161, 0.14);
+      --cp-accent-fg: #1a1a1a;
+      --cp-success: #4ade80;
+      --cp-danger: #f87171;
+      --cp-warning: #fbbf24;
+      --cp-link: #4da6ff;
+      --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+      --cp-overlay: rgba(41, 41, 41, 0.88);
+      --cp-panel: rgba(41, 41, 41, 0.72);
+      --cp-panel-strong: rgba(41, 41, 41, 0.96);
+      --cp-sheen: rgba(255, 255, 255, 0.04);
+      --cp-highlight: rgba(253, 142, 161, 0.12);
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--cp-bg); color: var(--cp-text); font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif; height: 100dvh; display: flex; flex-direction: column; }
+    h1, h2, h3, p, figure, blockquote { margin: 0; }
+    button { font: inherit; cursor: pointer; border: 1px solid var(--cp-border); border-radius: .625rem; background: var(--cp-surface); color: var(--cp-text); padding: 10px 14px; }
+    button:hover { border-color: var(--cp-accent); }
+    button:focus-visible, a:focus-visible { outline: 3px solid var(--cp-accent); outline-offset: 4px; }
+    button:disabled { opacity: .4; cursor: default; }
+    a { color: var(--cp-link); text-underline-offset: 3px; }
+    code { font-family: Consolas, "Courier New", Courier, monospace; }
+    .workspace { flex: 1 1 auto; min-height: 180px; display: grid; place-items: center; padding: 16px; }
+    .stage { width: 1600px; height: 900px; position: relative; overflow: hidden; }
+    .deck { width: 1600px; height: 900px; position: absolute; inset: 0; transform-origin: top left; }
+    .slide { width: 1600px; height: 900px; padding: 44px 64px 32px; display: flex; flex-direction: column; background: var(--cp-bg-elevated); border: 1px solid var(--cp-border); overflow: hidden; }
+    [hidden] { display: none !important; }
+    .masthead { height: 40px; flex-shrink: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 28px; }
+    .brand { display: flex; align-items: center; gap: 10px; font-size: 28px; letter-spacing: -1px; font-weight: 800; }
+    .brand svg { width: 24px; height: 28px; color: var(--cp-accent); }
+    .tag { padding: 7px 12px; border-radius: .625rem; font-size: 17px; font-weight: 650; background: var(--cp-accent-soft); color: var(--cp-accent); }
+    .eyebrow { font-size: 17px; font-weight: 700; letter-spacing: 1.6px; text-transform: uppercase; color: var(--cp-accent); }
+    h1 { font-size: 84px; line-height: 1.05; letter-spacing: -3px; }
+    h2 { font-size: 60px; line-height: 1.1; letter-spacing: -1.8px; }
+    h3 { font-size: 32px; line-height: 1.2; letter-spacing: -.6px; }
+    .heading { margin-bottom: 28px; flex-shrink: 0; }
+    .heading .eyebrow { margin-bottom: 12px; }
+    .subtitle { font-size: 27px; line-height: 1.4; color: var(--cp-text-soft); margin-top: 14px; }
+    .content { flex: 1; min-height: 0; }
+    .footer { margin-top: auto; padding-top: 22px; flex-shrink: 0; display: flex; justify-content: space-between; align-items: flex-end; gap: 24px; font-size: 18px; line-height: 1.4; color: var(--cp-text-soft); }
+    .footer span:first-child { max-width: 1330px; }
+    .page-number { white-space: nowrap; color: var(--cp-text); }
+    .split { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+    .stack { display: flex; flex-direction: column; gap: 16px; }
+    .card { padding: 24px; border-radius: 16px; border: 1px solid var(--cp-border); background: var(--cp-surface); }
+    .accent { color: var(--cp-accent); }
+    .muted { color: var(--cp-text-soft); }
+    .body { font-size: 27px; line-height: 1.4; }
+    .small { font-size: 22px; line-height: 1.4; }
+    .callout { padding: 22px 26px; background: var(--cp-accent-soft); border-radius: 16px; font-size: 25px; line-height: 1.4; }
+    .hero { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 48px; }
+    .hero .eyebrow { margin-bottom: 24px; }
+    .hero .subtitle { margin-top: 28px; }
+    .quote { font-size: 34px; font-weight: 600; line-height: 1.35; letter-spacing: -.5px; }
+    .bridge { display: grid; grid-template-columns: 1fr 30px 1fr; gap: 16px; align-items: center; padding: 22px 0; }
+    .bridge .eyebrow { margin-bottom: 12px; }
+    .arrow { color: var(--cp-accent); font-size: 28px; font-weight: 700; text-align: center; }
+    .personas { display: grid; grid-template-columns: .85fr 1.15fr; gap: 16px; }
+    .personas > div { padding: 18px; border-radius: 10px; background: var(--cp-surface-soft); }
+    .personas strong { display: block; font-size: 23px; margin: 10px 0; }
+    .personas .eyebrow { margin-bottom: 0; font-size: 15px; }
+    .steps { display: flex; flex-direction: column; gap: 20px; margin-top: 28px; }
+    .step { display: flex; align-items: flex-start; gap: 18px; }
+    .number { background: var(--cp-accent-soft); color: var(--cp-accent); width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center; font-size: 20px; font-weight: 700; flex-shrink: 0; }
+    .step strong { display: block; font-size: 29px; margin-bottom: 5px; }
+    .step p { font-size: 24px; line-height: 1.35; color: var(--cp-text-soft); }
+    .after { border-color: var(--cp-accent); }
+    .workflow { display: grid; grid-template-columns: 1fr 1.12fr; gap: 28px; }
+    .pipeline { display: grid; grid-template-columns: 1fr 34px 1fr 34px 1fr; gap: 10px; align-items: center; }
+    .node { border: 1px solid var(--cp-border); border-radius: 12px; background: var(--cp-surface-soft); padding: 20px 16px; font-size: 24px; font-weight: 650; text-align: center; line-height: 1.3; }
+    .node small { display: block; font-size: 20px; font-weight: 400; color: var(--cp-text-soft); margin-top: 8px; }
+    .evidence-quote { padding: 22px; border-radius: 12px; background: var(--cp-surface-soft); font-size: 29px; line-height: 1.4; }
+    .evidence-check { display: flex; gap: 16px; align-items: baseline; font-size: 26px; line-height: 1.4; }
+    .evidence-check b { color: var(--cp-accent); }
+    .three { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+    .three .card { display: flex; flex-direction: column; gap: 24px; }
+    .three .number { width: 48px; height: 48px; }
+    .three .small { margin-top: auto; }
+    .fake-button { display: inline-block; align-self: flex-start; padding: 12px 18px; border-radius: 10px; background: var(--cp-accent); color: var(--cp-accent-fg); font-size: 23px; font-weight: 650; }
+    .visual-layout { display: grid; grid-template-columns: .9fr 1.1fr; gap: 28px; }
+    .visual-schema { display: flex; flex-direction: column; justify-content: center; gap: 12px; padding: 20px; }
+    .image-inputs { display: grid; grid-template-columns: 1fr 40px 1fr; align-items: center; gap: 12px; }
+    .image-token { min-height: 158px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; background: var(--cp-surface-soft); border-radius: 12px; padding: 12px; text-align: center; font-size: 24px; }
+    .image-token svg { width: 70px; height: 76px; color: var(--cp-accent); }
+    .edit-path { display: flex; align-items: center; justify-content: center; gap: 18px; }
+    .summary-line { display: flex; justify-content: space-between; gap: 16px; padding: 17px 0; border-bottom: 1px solid var(--cp-border); font-size: 25px; }
+    .summary-line span { color: var(--cp-text-soft); }
+    .milestones { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+    .milestones > div { padding: 22px 12px; text-align: center; background: var(--cp-surface-soft); border-radius: 12px; font-size: 24px; }
+    .milestones strong { display: block; font-size: 34px; color: var(--cp-accent); margin-bottom: 10px; }
+    .system-map { display: grid; grid-template-columns: 220px 40px 830px 40px 1fr; grid-template-rows: 124px 1fr; row-gap: 16px; }
+    .architecture-layout { display: flex; flex-direction: column; gap: 16px; }
+    .architecture-layout .system-map { flex: 1; min-height: 0; }
+    .architecture-decisions { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+    .architecture-decisions p { background: var(--cp-accent-soft); border-radius: 10px; padding: 12px 16px; font-size: 21px; line-height: 1.3; }
+    .system-map .card { padding: 18px; }
+    .system-map h3 { font-size: 28px; }
+    .system-map p { font-size: 22px; line-height: 1.35; color: var(--cp-text-soft); }
+    .system-map .arrow { align-self: center; }
+    .system-source, .catalog-prep { display: flex; flex-direction: column; justify-content: center; gap: 8px; }
+    .api-labels { display: flex; flex-wrap: wrap; gap: 8px; }
+    .api-label { padding: 4px 9px; border-radius: 6px; background: var(--cp-accent-soft); color: var(--cp-accent); font-size: 19px; font-weight: 650; line-height: 1.3; }
+    .local-label { color: var(--cp-text-soft); font-size: 19px; }
+    .system-store { grid-column: 5; grid-row: 1 / 3; display: flex; flex-direction: column; gap: 12px; }
+    .system-store h3 { margin-bottom: 4px; }
+    .store-item { padding-bottom: 12px; border-bottom: 1px solid var(--cp-border); }
+    .store-item:last-child { border-bottom: 0; padding-bottom: 0; }
+    .store-item strong { display: block; font-size: 25px; margin-bottom: 7px; }
+    .system-ui { grid-column: 1; grid-row: 2; display: flex; flex-direction: column; justify-content: center; gap: 22px; }
+    .system-ui svg { width: 62px; height: 70px; color: var(--cp-accent); }
+    .backend-box { grid-column: 3; grid-row: 2; border: 1px solid var(--cp-border-strong); border-radius: 16px; padding: 12px; }
+    .backend-box > .eyebrow { font-size: 18px; color: var(--cp-accent); margin-bottom: 14px; }
+    .backend-components { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .backend-components .card { display: flex; flex-direction: column; gap: 8px; padding: 12px; }
+    .backend-components h3 { font-size: 27px; }
+    .backend-components p { font-size: 20px; }
+    .business-metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+    .guardrails { grid-template-columns: repeat(3, 1fr); gap: 20px; }
+    .guardrails .card { padding: 18px 22px; gap: 8px; }
+    .guardrails h3 { font-size: 22px; }
+    .guardrails p { font-size: 19px; line-height: 1.35; color: var(--cp-text-muted); }
+    .metric { padding: 18px 24px; border-radius: 16px; border: 1px solid var(--cp-border); background: var(--cp-surface); }
+    .metric strong { display: block; color: var(--cp-accent); font-size: 58px; line-height: 1; letter-spacing: -2px; }
+    .metric p { font-size: 23px; margin-top: 10px; }
+    .impact-line { display: flex; gap: 24px; align-items: center; padding: 16px 24px; border-radius: 16px; background: var(--cp-accent-soft); }
+    .impact-line strong { font-size: 44px; letter-spacing: -1px; white-space: nowrap; color: var(--cp-accent); }
+    .impact-line p { font-size: 24px; line-height: 1.35; }
+    .pilot .card { padding: 18px 22px; gap: 10px; }
+    .pilot h3 { font-size: 29px; }
+    .pilot p { font-size: 22px; line-height: 1.35; }
+    .pilot .gate { padding-top: 12px; margin-top: auto; border-top: 1px solid var(--cp-border); font-size: 20px; color: var(--cp-text-soft); }
+    #slide-8 .content { gap: 14px; }
+    #slide-8 .content > .small { font-size: 20px; }
+    #slide-3 .content > .callout { padding: 16px 22px; font-size: 24px; }
+    #slide-6 .stack { gap: 12px; }
+    #slide-6 .callout { padding: 18px 22px; }
+    #slide-8 .heading { margin-bottom: 20px; }
+    .controls { flex: 0 0 76px; border-top: 1px solid var(--cp-border); background: var(--cp-surface); display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 0 24px; z-index: 5; }
+    .control-group, .slide-nav { display: flex; align-items: center; gap: 8px; }
+    .slide-nav button { width: 34px; padding: 9px 0; }
+    .slide-nav button[aria-current="step"] { background: var(--cp-accent); color: var(--cp-accent-fg); border-color: var(--cp-accent); }
+    .nav-caption { font-size: 13px; color: var(--cp-text-soft); }
+    #status { position: fixed; bottom: 86px; left: 24px; padding: 8px 12px; background: var(--cp-surface); border-radius: 10px; z-index: 9; }
+    #status:empty { display: none; }
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+    @media (max-width: 760px) {
+      .controls { flex-basis: 108px; padding: 8px; flex-wrap: wrap; justify-content: center; align-content: center; gap: 8px; }
+      .workspace { padding: 6px; }
+      .controls button { font-size: 12px; padding: 8px 10px; }
+      .slide-nav { order: 1; }
+      .slide-nav button { width: 28px; padding: 7px 0; }
+      .nav-caption { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <svg width="0" height="0" aria-hidden="true" style="position:absolute"><defs><symbol id="trail-mark" viewBox="0 0 24 28"><path d="m3 12 9-9 9 9M6 17l6-6 6 6M12 3v23" fill="none" stroke="currentColor" stroke-width="2.5"/></symbol></defs></svg>
+  <main class="workspace"><div class="stage"><div class="deck">
+    <section class="slide" id="slide-1" aria-labelledby="title-1" data-title="Customer & Problem">
+      <header class="masthead"><div class="brand"><svg aria-hidden="true"><use href="#trail-mark"/></svg>trailshop.</div><span class="tag">LIVE API DEMO · FICTIONAL CUSTOMER</span></header>
+      <div class="content hero">
+        <div><p class="eyebrow">01 / Customer &amp; problem · 0:00–0:20</p><h1 id="title-1">Customers shop<br>for a purpose.<br><span class="accent">Not a SKU.</span></h1><p class="subtitle">One customer: Trailshop.<br>One workflow: choose a fall-hiking outfit.</p></div>
+        <div class="card stack">
+          <blockquote class="quote">“I need a jacket for hiking this fall.”</blockquote>
+          <div class="bridge"><div><p class="eyebrow">What the catalog has</p><p class="body">Name · color · size<br>Sparse descriptions</p></div><span class="arrow">→</span><div><p class="eyebrow">What the shopper needs</p><p class="body">Suitable options<br>Reasons to choose</p></div></div>
+          <div class="personas"><div><p class="eyebrow">User</p><strong>Online shopper</strong><p class="small muted">Alex · synthetic profile</p></div><div><p class="eyebrow">Audience / business sponsor</p><strong>Head of Digital Commerce</strong><p class="small muted">Prospective buyer · conversion and shopping experience.</p></div></div>
+        </div>
+      </div>
+      <footer class="footer"><span>Live OpenAI calls · synthetic catalog, profile and stock · problem hypothesis, not completed customer research.</span><span class="page-number">01 / 08</span></footer>
+    </section>
+
+    <section class="slide" id="slide-2" aria-labelledby="title-2" data-title="Before & After" hidden>
+      <header class="masthead"><div class="brand"><svg aria-hidden="true"><use href="#trail-mark"/></svg>trailshop.</div><span class="tag">ONE SURFACE · OPENAI PLATFORM / APIs</span></header>
+      <div class="heading"><p class="eyebrow">02 / Proposed solution · 0:20–0:35</p><h2 id="title-2">Less searching. More deciding.</h2><p class="subtitle">Why APIs: embedded shopping, retailer-owned context and controlled actions.</p></div>
+      <div class="content stack">
+        <div class="split">
+          <div class="card"><h3>Before · shopper does the synthesis</h3><div class="steps">
+            <div class="step"><span class="number">1</span><div><strong>Translate the activity into keywords</strong><p>Adjust filters and read source descriptions.</p></div></div>
+            <div class="step"><span class="number">2</span><div><strong>Review and assemble manually</strong><p>Resolve trade-offs across separate products.</p></div></div>
+            <div class="step"><span class="number">3</span><div><strong>Decide with unstated gaps</strong><p>Missing specifications are left to the shopper to guess.</p></div></div>
+          </div></div>
+          <div class="card after"><h3>After · evidence-backed decisions</h3><div class="steps">
+            <div class="step"><span class="number">1</span><div><strong>Ask → clarify → choose</strong><p>Inline cards; selection buttons send chat requests.</p></div></div>
+            <div class="step"><span class="number">2</span><div><strong>Complement → save → feedback</strong><p>Demo count only. No order is placed.</p></div></div>
+            <div class="step"><span class="number">3</span><div><strong>Reasons + scores on demand</strong><p>Inline ranking toggle, selection and optional preview.</p></div></div>
+          </div></div>
+        </div>
+        <div class="callout"><strong>What I built:</strong> catalog preparation, the shopping UI, typed API tools, selection checks, image-edit integration and helpfulness feedback—with AI coding assistance.</div>
+      </div>
+      <footer class="footer"><span>Not a separate chat destination. Catalog enrichment and image references are prepared; shopping inference runs live.</span><span class="page-number">02 / 08</span></footer>
+    </section>
+
+    <section class="slide" id="slide-3" aria-labelledby="title-3" data-title="Catalog Evidence" hidden>
+      <header class="masthead"><div class="brand"><svg aria-hidden="true"><use href="#trail-mark"/></svg>trailshop.</div><span class="tag">DEMO PRODUCTS · PREPARED &amp; HUMAN-REVIEWED</span></header>
+      <div class="heading"><p class="eyebrow">03 / Supporting slide · evidence shown in the app</p><h2 id="title-3">Enrich the catalog. Don’t invent facts.</h2><p class="subtitle">Preparation happens before shopping, not on every customer request.</p></div>
+      <div class="content stack">
+        <div class="pipeline" aria-label="Offline enrichment pipeline"><div class="node">Generate<small>Attributes from source text</small></div><span class="arrow">→</span><div class="node">Separate judge<small>Check support + quotations</small></div><span class="arrow">→</span><div class="node">Publish + index<small>Only accepted attributes</small></div></div>
+        <div class="split">
+          <div class="card stack"><p class="eyebrow">Illustrative source interpretation</p><blockquote class="evidence-quote">“Helps shed light drizzle.”</blockquote><p class="evidence-check"><b>Supported:</b> light-rain protection</p><p class="evidence-check"><b>Not established:</b> a waterproof rating</p></div>
+          <div class="card stack"><h3>“Why this match” exposes the record.</h3><p class="body">240 processed: 232 completed, 8 quarantined.<br>Quarantined records remain source-only.</p><p class="small muted">Live snapshot · 23 Sep 2026. Publication and index match. Human review is confirmed only for the presenter’s demo products—not the whole catalog.</p></div>
+        </div>
+        <div class="callout">“These attributes were generated using OpenAI, then checked by a second model against the original product description, and reviewed by me for the demo products.”</div>
+      </div>
+      <footer class="footer"><span>Separate model validation is an additional check, not OpenAI certification or a guarantee of accuracy.</span><span class="page-number">03 / 08</span></footer>
+    </section>
+
+    <section class="slide" id="slide-4" aria-labelledby="title-4" data-title="Ranking & Shopper Control" hidden>
+      <header class="masthead"><div class="brand"><svg aria-hidden="true"><use href="#trail-mark"/></svg>trailshop.</div><span class="tag">IMPLEMENTED · SHOPPER-CONTROLLED ACTIONS</span></header>
+      <div class="heading"><p class="eyebrow">04 / Supporting slide · ranking, selection and recovery</p><h2 id="title-4">See the ranking. Keep control.</h2><p class="subtitle">Inspect the recommendation, then choose through a card shortcut or chat.</p></div>
+      <div class="content stack">
+        <div class="three">
+          <div class="card"><span class="number">1</span><h3>Inspect the scores</h3><p class="body">Each product card’s “Ranking scores” toggle shows its signals and weighted total.</p><p class="small muted">Scores: 0–1. Default weights stay in the evidence panel; inactive signals are re-normalized.</p></div>
+          <div class="card"><span class="number">2</span><h3>Review changed needs</h3><p class="body">Keep the selected items, flag conflicts, clear prior confirmation and private previews.</p><p class="small muted">Explicitly accept exceptions or replace items. Unavailable variants cannot be confirmed.</p></div>
+          <div class="card"><span class="number">3</span><h3>Recover from no matches</h3><p class="body">Offer a catalog-checked, one-condition change with an eligible-product count.</p><p class="small muted">Choose an offered alternative. Size is not automatically relaxed.</p></div>
+        </div>
+        <div class="callout"><strong>Two distinct groups:</strong> “Now in your selection” shows chosen items; “Completes the outfit” offers up to two additional picks.</div>
+      </div>
+      <footer class="footer"><span>Source-only ranking uses the same eligibility rules. Required-benefit eligibility can use enrichment: this is not a pure ablation.</span><span class="page-number">04 / 08</span></footer>
+    </section>
+
+    <section class="slide" id="slide-5" aria-labelledby="title-5" data-title="Reference-Based Visualization" hidden>
+      <header class="masthead"><div class="brand"><svg aria-hidden="true"><use href="#trail-mark"/></svg>trailshop.</div><span class="tag">OPTIONAL · VISUAL REFERENCE ONLY</span></header>
+      <div class="heading"><p class="eyebrow">05 / Supporting slide · same person, selected garments</p><h2 id="title-5">See the combination—not a prediction of fit.</h2><p class="subtitle">The card and the outfit edit use the same selected-color garment reference.</p></div>
+      <div class="content visual-layout">
+        <div class="stack">
+          <div class="card stack"><h3>Reuse the prepared assets</h3><p class="body">One fixed fictional full-body photo.<br>Color-specific product illustrations.</p><p class="small muted">No new person generation on page load. No customer-photo uploader in this UI.</p></div>
+          <div class="callout"><strong>You ask for the try-on preview</strong><br>Wait for references; show elapsed time, errors and retry—not an invented ETA.</div>
+          <p class="small muted">Future: consented shopper uploads. No body measurements, fit prediction or exact-appearance guarantee.</p>
+        </div>
+        <figure class="card visual-schema">
+          <div class="image-inputs">
+            <div class="image-token"><svg viewBox="0 0 70 76" aria-hidden="true"><circle cx="35" cy="12" r="9" fill="currentColor"/><path d="M24 27h22l8 27h-9v20h-8V53h-4v21h-8V54h-9Z" fill="currentColor"/></svg><strong>Fixed person</strong></div>
+            <span class="arrow">+</span>
+            <div class="image-token"><svg viewBox="0 0 70 76" aria-hidden="true"><path d="m21 12-13 9-7 24 10 5 10-18v37h28V32l10 18 10-5-7-24-13-9-14 9Z" fill="var(--cp-accent-soft)" stroke="currentColor" stroke-width="2"/><path d="M35 21v48" stroke="currentColor" stroke-width="2"/></svg><strong>Garment references</strong></div>
+          </div>
+          <div class="edit-path"><span class="arrow">↓</span><div class="node">OpenAI Images edit<small>Person bytes + selected product images</small></div></div>
+          <div class="callout"><strong>Private preview</strong><br>RAM-only result · 15-minute expiry · removable</div>
+          <figcaption class="small muted">Workflow schematic—not an output. Product references persist; new try-on requests do not reuse completed private previews.</figcaption>
+        </figure>
+      </div>
+      <footer class="footer"><span>Runtime controls: 5 new image jobs/session; shared daily image-call cap (default 100 UTC). Failed reservations count; CLI batches excluded.</span><span class="page-number">05 / 08</span></footer>
+    </section>
+
+    <section class="slide" id="slide-6" aria-labelledby="title-6" data-title="Save & Feedback" hidden>
+      <header class="masthead"><div class="brand"><svg aria-hidden="true"><use href="#trail-mark"/></svg>trailshop.</div><span class="tag">DEMO COUNT ONLY · NO CHECKOUT</span></header>
+      <div class="heading"><p class="eyebrow">06 / Supporting slide · a complete shopping decision</p><h2 id="title-6">Finish choosing. Share your feedback.</h2><p class="subtitle">An image is optional. A purchase is outside this prototype.</p></div>
+      <div class="content split">
+        <div class="card stack"><p class="eyebrow">Your trail selection · UI structure</p><div>
+          <div class="summary-line"><strong>Selected items</strong><span>Color + catalog size</span></div>
+          <div class="summary-line"><strong>Item prices + subtotal</strong><span>Before tax / shipping</span></div>
+          <div class="summary-line"><strong>Current requirements</strong><span>Review any conflicts</span></div>
+        </div><p class="small muted">The jacket budget is not the total outfit budget. Stock and selection revision are checked before saving.</p><span class="fake-button">Type: Save this to the demo cart</span><div class="callout">“Saved to demo cart.<br>No purchase or payment.”</div></div>
+        <div class="card stack"><h3>Did this help you choose?</h3><div class="milestones"><div><strong>01</strong>Review</div><div><strong>02</strong>Save</div><div><strong>03</strong>Feedback</div></div><p class="body">Only the header cart count updates. No separate cart screen or checkout is implemented.</p><p class="small muted">Unique saved options count once. Reload, journey reset or profile change clears the count. An image is optional.</p><div class="callout"><strong>Reply:</strong> “Yes, that helped” / “Not yet”<br>No revenue, conversion or time-saving claim.</div></div>
+      </div>
+      <footer class="footer"><span>Browser-memory demo count, not a persisted cart. Existing selection checks and revision-bound feedback remain.</span><span class="page-number">06 / 08</span></footer>
+    </section>
+
+    <section class="slide" id="slide-7" aria-labelledby="title-7" data-title="Overall Architecture" hidden>
+      <header class="masthead"><div class="brand"><svg aria-hidden="true"><use href="#trail-mark"/></svg>trailshop.</div><span class="tag">OPENAI APIs · LABELED AT POINT OF USE</span></header>
+      <div class="heading"><p class="eyebrow">07 / Overall architecture · 3:45–4:10</p><h2 id="title-7">One application. Clear API responsibilities.</h2></div>
+      <div class="content architecture-layout">
+      <div class="system-map" role="group" aria-label="Live API architecture: offline catalog preparation and Next.js UI connect to FastAPI components and shared local stores. Each component labels its OpenAI APIs.">
+        <div class="card system-source"><h3>Raw catalog</h3><p>240 synthetic<br>products</p></div>
+        <span class="arrow" aria-hidden="true">→</span>
+        <div class="card catalog-prep"><h3>Catalog preparation · offline</h3><p>Generate attributes → separate judge → publish + index</p><div class="api-labels"><span class="api-label">Responses API · attributes + judge</span><span class="api-label">Embeddings API · index</span></div></div>
+        <span class="arrow" aria-hidden="true">→</span>
+        <div class="card system-store"><h3>Local stores</h3><div class="store-item"><strong>SQLite</strong><p>Facts + sessions</p></div><div class="store-item"><strong>FAISS</strong><p>Catalog vectors</p></div><div class="store-item"><strong>Asset files</strong><p>Public references</p></div><div class="store-item"><strong>Private RAM</strong><p>Try-on · 15 min</p></div></div>
+        <div class="card system-ui"><svg viewBox="0 0 70 76" aria-hidden="true"><circle cx="35" cy="12" r="9" fill="currentColor"/><path d="M24 27h22l8 27h-9v20h-8V53h-4v21h-8V54h-9Z" fill="currentColor"/></svg><h3>Next.js UI</h3><p>Chat + cards<br>Selection + preview</p><span class="local-label">No direct OpenAI calls</span></div>
+        <span class="arrow" aria-hidden="true">↔</span>
+        <div class="backend-box"><p class="eyebrow">FastAPI backend · tool execution + state control</p><div class="backend-components">
+          <div class="card"><h3>Shopping agent</h3><p>Intent, tool calls + text safety</p><div class="api-labels"><span class="api-label">Responses API</span><span class="api-label">Moderations API</span></div></div>
+          <div class="card"><h3>Hybrid retrieval</h3><p>Query vectors + ranked matches</p><div class="api-labels"><span class="api-label">Embeddings API</span></div></div>
+          <div class="card"><h3>Selection tools</h3><p>Select · save · feedback</p><span class="local-label">Local checks · no direct OpenAI call</span></div>
+          <div class="card"><h3>Image pipeline</h3><p>Asset generation + reference edits</p><div class="api-labels"><span class="api-label">Images API</span><span class="api-label">Moderations API</span></div></div>
+        </div></div>
+        <span class="arrow" aria-hidden="true">↔</span>
+      </div>
+      <div class="architecture-decisions"><p><strong>Offline checks:</strong> less online work;<br>source changes require revalidation + reindexing.</p><p><strong>SQLite + FAISS:</strong> simple local prototype;<br>one worker, no high availability or durable jobs.</p></div>
+      </div>
+      <footer class="footer"><span>Live OpenAI calls run server-side. Models API: CLI preflight only. Application code owns eligibility, prices and actions.</span><span class="page-number">07 / 08</span></footer>
+    </section>
+
+    <section class="slide" id="slide-8" aria-labelledby="title-8" data-title="Value & Production Adoption" hidden>
+      <header class="masthead"><div class="brand"><svg aria-hidden="true"><use href="#trail-mark"/></svg>trailshop.</div><span class="tag">ASSUMPTIONS &amp; PROPOSED PILOT · NOT RESULTS</span></header>
+      <div class="heading"><p class="eyebrow">08 / Business value &amp; adoption · 4:10–5:00</p><h2 id="title-8">Prove customer value before expanding.</h2></div>
+      <div class="content stack">
+        <div class="callout"><strong>Value hypothesis:</strong> better discovery → completed selection → higher conversion. A controlled pilot tests this against a same-task baseline, not assumed figures.</div>
+        <div class="three pilot">
+          <div class="card"><p class="eyebrow">1 / Prepare</p><h3>Engineering + security</h3><p>Auth, live stock, private storage, durable jobs and monitoring.</p><p class="gate">Merchandising reviews evidence and trains support. Gate: security + quality.</p></div>
+          <div class="card"><p class="eyebrow">2 / Pilot jackets</p><h3>Analytics + commerce</h3><p>Adoption: starts / exposed;<br>saves / started; repeat use.</p><p class="gate">Same-task control. Track helpfulness, quality, p95 latency and cost per completion.</p></div>
+          <div class="card"><p class="eyebrow">3 / Decide</p><h3>Commerce sponsor</h3><p>Expand on proven value and acceptable unit cost—not usage alone.</p><p class="gate">Agree gates before launch. Roll back on quality or cost breaches.</p></div>
+        </div>
+        <div class="three guardrails">
+          <div class="card"><h3>Cost control</h3><p>Reconcile every billed API plus preparation cost, not just the image-call cap.</p></div>
+          <div class="card"><h3>Rollback safety</h3><p>Engineering can revert to ordinary shopping if quality or cost gates are missed.</p></div>
+          <div class="card"><h3>Privacy first</h3><p>Session windows and identity design are privacy-reviewed before any adoption metric is tracked.</p></div>
+        </div>
+        <p class="small muted">Value hypothesis: better discovery → completed selection → purchase. Fixed traffic/AOV; returns and incremental costs excluded.</p>
+      </div>
+      <footer class="footer"><span>Real conversion requires commerce integration. Proposed pilot, not measured uplift. Optional voice is future work.</span><span class="page-number">08 / 08</span></footer>
+    </section>
+  </div></div></main>
+  <nav class="controls" aria-label="Presentation controls">
+    <div class="control-group"><button id="previous" aria-label="Previous slide">← Back</button><button id="next" aria-label="Next slide">Next →</button><span class="nav-caption">← → / 1–8</span></div>
+    <div class="slide-nav" aria-label="Go to slide"></div>
+    <div class="control-group"><button id="theme-toggle" aria-label="Toggle color theme">Theme</button><button id="fullscreen">Fullscreen</button></div>
+  </nav>
+  <div id="announcement" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+  <div id="status" role="status"></div>
+  <script>
+    (() => {
+      "use strict";
+      const slides = Array.from(document.querySelectorAll(".slide"));
+      const stage = document.querySelector(".stage");
+      const deck = document.querySelector(".deck");
+      const workspace = document.querySelector(".workspace");
+      const nav = document.querySelector(".slide-nav");
+      const previous = document.getElementById("previous");
+      const next = document.getElementById("next");
+      const announcement = document.getElementById("announcement");
+      const status = document.getElementById("status");
+      let current = 0;
+      const parseHash = () => {
+        const match = /^#slide-([1-8])$/.exec(location.hash);
+        return match ? Number(match[1]) - 1 : 0;
+      };
+      function resize() {
+        const style = getComputedStyle(workspace);
+        const width = workspace.clientWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight);
+        const height = workspace.clientHeight - parseFloat(style.paddingTop) - parseFloat(style.paddingBottom);
+        const scale = Math.max(.05, Math.min(width / 1600, height / 900));
+        stage.style.width = `${1600 * scale}px`;
+        stage.style.height = `${900 * scale}px`;
+        deck.style.transform = `scale(${scale})`;
+      }
+      function show(index, updateHash = true) {
+        current = Math.max(0, Math.min(slides.length - 1, index));
+        slides.forEach((slide, i) => {
+          slide.hidden = i !== current;
+          if (i === current) nav.children[i].setAttribute("aria-current", "step");
+          else nav.children[i].removeAttribute("aria-current");
+        });
+        previous.disabled = current === 0;
+        next.disabled = current === slides.length - 1;
+        if (updateHash) history.replaceState(null, "", `#slide-${current + 1}`);
+        announcement.textContent = `Slide ${current + 1} of 8: ${slides[current].dataset.title}`;
+      }
+      slides.forEach((slide, index) => {
+        const button = document.createElement("button");
+        button.textContent = String(index + 1);
+        button.setAttribute("aria-label", `Slide ${index + 1}: ${slide.dataset.title}`);
+        button.addEventListener("click", () => show(index));
+        nav.append(button);
+      });
+      previous.addEventListener("click", () => show(current - 1));
+      next.addEventListener("click", () => show(current + 1));
+      document.getElementById("theme-toggle").addEventListener("click", () => {
+        document.documentElement.dataset.theme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+      });
+      async function fullscreen() {
+        try {
+          if (document.fullscreenElement) await document.exitFullscreen();
+          else if (document.documentElement.requestFullscreen) await document.documentElement.requestFullscreen();
+          else status.textContent = "Fullscreen is unavailable in this viewer. Open the HTML in a browser.";
+        } catch {
+          status.textContent = "Fullscreen was not permitted. Open the HTML directly in a browser.";
+        }
+      }
+      document.getElementById("fullscreen").addEventListener("click", fullscreen);
+      document.addEventListener("keydown", event => {
+        if (event.altKey || event.ctrlKey || event.metaKey || event.target.closest("input, textarea, select, [contenteditable]")) return;
+        if (event.key === "ArrowRight" || event.key === "PageDown") { event.preventDefault(); show(current + 1); }
+        else if (event.key === "ArrowLeft" || event.key === "PageUp") { event.preventDefault(); show(current - 1); }
+        else if (/^[1-8]$/.test(event.key)) show(Number(event.key) - 1);
+        else if (event.key.toLowerCase() === "f") void fullscreen();
+      });
+      window.addEventListener("hashchange", () => show(parseHash(), false));
+      window.addEventListener("resize", resize);
+      show(parseHash(), false);
+      resize();
+    })();
+  </script>
+</body>
+</html>

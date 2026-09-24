@@ -1,0 +1,10 @@
+{
+  "status": "completed",
+  "model": "gpt-image-2.5-flare",
+  "quality": "medium",
+  "created_at": "2026-09-22T14:07:11.319023+00:00",
+  "source": "OpenAI-generated fictional adult; fixed public demo asset, not a customer photo",
+  "prompt_sha256": "a5995f42263698b8cd4c78c6121c2587fd4bfef4ae9163e93233d672fc0383bc",
+  "sha256": "344aa7bba1f76070fe69f8042e2275cd47ddd24a8c91654ae08cc2c038ad868f",
+  "file": "sample-person.png"
+}

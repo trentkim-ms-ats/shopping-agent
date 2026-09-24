@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="trailshop-architecture" viewBox="0 0 800 548" width="800" height="548" role="img" aria-labelledby="architecture-title architecture-description">
+  <title id="architecture-title">Trailshop architecture</title>
+  <desc id="architecture-description">OpenAI Platform connects Responses, Embeddings and GPT-Image to the Shopping Agent. The agent queries Hybrid Search, which reads the Enriched Catalog. Raw Catalog flows upward through Generate and Validate into the Enriched Catalog. Semantic vectors and OpenAI calls apply to live mode, not replay.</desc>
+  <style>
+    :root:not(html) {
+      color-scheme: light;
+      --cp-surface: #ffffff;
+      --cp-surface-soft: #f5f5f5;
+      --cp-border: #dedede;
+      --cp-border-strong: #919191;
+      --cp-text: #242424;
+      --cp-text-soft: #6f6f6f;
+      --cp-accent: #b11f4b;
+      --cp-accent-soft: rgba(177, 31, 75, 0.08);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not(html) {
+        color-scheme: dark;
+        --cp-surface: #292929;
+        --cp-surface-soft: #2e2e2e;
+        --cp-border: #474747;
+        --cp-border-strong: #5f5f5f;
+        --cp-text: #dedede;
+        --cp-text-soft: #b0b0b0;
+        --cp-accent: #fd8ea1;
+        --cp-accent-soft: rgba(253, 142, 161, 0.14);
+      }
+    }
+    .trailshop-architecture { font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif; }
+    .trailshop-architecture rect { fill: var(--cp-surface); stroke: var(--cp-border-strong); stroke-width: 1.5; }
+    .trailshop-architecture .arch-emphasis rect { fill: var(--cp-accent-soft); stroke: var(--cp-accent); }
+    .trailshop-architecture .arch-label { fill: var(--cp-text); font-size: 27px; font-weight: 650; text-anchor: middle; }
+    .trailshop-architecture .arch-subtitle { fill: var(--cp-text-soft); font-size: 20px; text-anchor: middle; }
+    .trailshop-architecture .arch-edge { fill: none; stroke: var(--cp-text-soft); stroke-width: 3; stroke-linejoin: round; }
+    .trailshop-architecture .arch-flow { stroke: var(--cp-accent); }
+    .trailshop-architecture .arch-edge-label { fill: var(--cp-text-soft); font-size: 22px; }
+  </style>
+  <defs>
+    <marker id="architecture-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 10 5 0 10Z" fill="var(--cp-accent)"/>
+    </marker>
+  </defs>
+  <g aria-hidden="true">
+    <polyline class="arch-edge" data-edge="platform-responses" points="400,49 400,60 140,60 140,72"/>
+    <polyline class="arch-edge" data-edge="platform-embeddings" points="400,49 400,72"/>
+    <polyline class="arch-edge" data-edge="platform-images" points="400,49 400,60 660,60 660,72"/>
+    <polyline class="arch-edge" data-edge="responses-agent" points="140,118 140,133 400,133 400,148"/>
+    <polyline class="arch-edge" data-edge="embeddings-agent" points="400,118 400,148"/>
+    <polyline class="arch-edge" data-edge="images-agent" points="660,118 660,133 400,133 400,148"/>
+    <polyline class="arch-edge arch-flow" data-edge="agent-search" points="400,206 400,233" marker-end="url(#architecture-arrow)"/>
+    <polyline class="arch-edge arch-flow" data-edge="search-catalog" points="400,291 400,319" marker-end="url(#architecture-arrow)"/>
+    <polyline class="arch-edge arch-flow" data-edge="validate-publish" points="400,404 400,377" marker-end="url(#architecture-arrow)"/>
+    <polyline class="arch-edge arch-flow" data-edge="raw-generate" points="400,479 400,450" marker-end="url(#architecture-arrow)"/>
+  </g>
+  <g data-node="platform" data-label="OpenAI Platform" class="arch-emphasis">
+    <rect x="190" y="3" width="420" height="46" rx="12"/>
+    <text class="arch-label" x="400" y="35">OpenAI Platform</text>
+  </g>
+  <g data-node="responses" data-label="Responses">
+    <rect x="31" y="72" width="218" height="46" rx="12"/>
+    <text class="arch-label" x="140" y="104">Responses</text>
+  </g>
+  <g data-node="embeddings" data-label="Embeddings">
+    <rect x="291" y="72" width="218" height="46" rx="12"/>
+    <text class="arch-label" x="400" y="104">Embeddings</text>
+  </g>
+  <g data-node="images" data-label="GPT-Image">
+    <rect x="551" y="72" width="218" height="46" rx="12"/>
+    <text class="arch-label" x="660" y="104">GPT-Image</text>
+  </g>
+  <g data-node="agent" data-label="Shopping Agent" class="arch-emphasis">
+    <rect x="178" y="148" width="444" height="58" rx="12"/>
+    <text class="arch-label" x="400" y="174">Shopping Agent</text>
+    <text class="arch-subtitle" x="400" y="196">FastAPI · typed tools</text>
+  </g>
+  <text class="arch-edge-label" x="417" y="226">query</text>
+  <g data-node="search" data-label="Hybrid Search">
+    <rect x="178" y="233" width="444" height="58" rx="12"/>
+    <text class="arch-label" x="400" y="259">Hybrid Search</text>
+    <text class="arch-subtitle" x="400" y="282">Hard filters · lexical · FAISS (live)</text>
+  </g>
+  <text class="arch-edge-label" x="417" y="312">read</text>
+  <g data-node="catalog" data-label="Enriched Catalog">
+    <rect x="178" y="319" width="444" height="58" rx="12"/>
+    <text class="arch-label" x="400" y="345">Enriched Catalog</text>
+    <text class="arch-subtitle" x="400" y="367">SQLite · approved attributes</text>
+  </g>
+  <text class="arch-edge-label" x="417" y="397">publish</text>
+  <g data-node="pipeline" data-label="Generate → Validate">
+    <rect x="178" y="404" width="444" height="46" rx="12"/>
+    <text class="arch-label" x="400" y="435">Generate → Validate</text>
+  </g>
+  <text class="arch-edge-label" x="417" y="472">prepare</text>
+  <g data-node="raw" data-label="Raw Catalog">
+    <rect x="178" y="479" width="444" height="60" rx="12"/>
+    <text class="arch-label" x="400" y="506">Raw Catalog</text>
+    <text class="arch-subtitle" x="400" y="530">240 synthetic products</text>
+  </g>
+</svg>
